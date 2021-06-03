@@ -32,6 +32,7 @@ export default async function(ctx) {
     update.yPosition = ctx.query.yPosition;
     update.zPosition = ctx.query.zPosition;
     update.pouchGold = ctx.query.pouchGold;
+    update.keys = ctx.query.keys;
   }
 
   await Player.updateOne(
