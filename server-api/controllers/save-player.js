@@ -32,6 +32,8 @@ export default async function(ctx) {
     update.yPosition = ctx.query.yPosition;
     update.zPosition = ctx.query.zPosition;
     update.pouchGold = ctx.query.pouchGold;
+    update.ibankID = ctx.query.ibankID;
+    update.ibank = ctx.query.ibank;
     update.keys = ctx.query.keys;
   }
 

@@ -35,8 +35,9 @@ const PlayerSchema = new mongoose.Schema({
   forthAmmo: Number,
   horse: Number,
   horseHealth: Number,
+  ibankID: Number,
+  ibank: { type: String },
   keys: { type: String },
-
   xPosition: Number,
   yPosition: Number,
   zPosition: Number,
