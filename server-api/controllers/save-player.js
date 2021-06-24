@@ -33,6 +33,14 @@ export default async function(ctx) {
     update.zPosition = ctx.query.zPosition;
     update.pouchGold = ctx.query.pouchGold;
     update.ibankID = ctx.query.ibankID;
+   
+    update.quest = ctx.query.quest;
+    update.quest_task_1 = ctx.query.quest_task_1;
+    update.quest_task_2 = ctx.query.quest_task_2;
+    update.quest_task_3 = ctx.query.quest_task_3;
+    update.quest_settlement = ctx.query.quest_settlement;
+    update.quest_switch = ctx.query.quest_switch;
+
     update.ibank = ctx.query.ibank;
     update.keys = ctx.query.keys;
   }

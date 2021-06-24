@@ -44,7 +44,14 @@ const PlayerSchema = new mongoose.Schema({
 
   pouchGold: { type: Number, require: true },
   bankGold: { type: Number, require: true },
-  bankLimit: { type: Number, require: true }
+  bankLimit: { type: Number, require: true },
+ 
+  quest: { type: Number, default: 0 },
+  quest_task_1: { type: Number, default: 0 },
+  quest_task_2: { type: Number, default: 0},
+  quest_task_3: { type: Number, default: 0 },
+  quest_settlement: { type: Number, default: 0 },
+  quest_switch: { type: Number, default: 0 }
 });
 
 export default mongoose.model('Player', PlayerSchema);
