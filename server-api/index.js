@@ -13,7 +13,9 @@ import {
   ibankSave,
   ibankLoad,
   pdoorSave,
-  pdoorLoad
+  pdoorLoad,
+  factionSave,
+  factionLoad
 } from './controllers';
 
 const router = new Router();
@@ -32,4 +34,7 @@ router.get('/ibankload', ibankLoad); //load ibank
 router.get('/ibanksave', ibankSave); //save ibank
 router.get('/pdoorSave', pdoorSave); //save pdoor
 router.get('/pdoorLoad', pdoorLoad); //load pdoor
+router.get('/factionSave', factionSave); //save faction
+router.get('/factionLoad', factionLoad); //load faction
+
 export default router;

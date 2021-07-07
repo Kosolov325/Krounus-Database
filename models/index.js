@@ -13,6 +13,7 @@ import SteamUser from './steam-user';
 import Warning from './warning';
 import Ibank from './ibank';
 import Pdoor from './pdoor';
+import Faction from './faction';
 
 export {
   AdminLog,
@@ -29,5 +30,6 @@ export {
   SteamUser,
   Warning,
   Ibank,
-  Pdoor
+  Pdoor,
+  Faction
 };

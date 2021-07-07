@@ -9,6 +9,8 @@ import ibankSave from './ibank-save';
 import ibankLoad from './ibank-load';
 import pdoorSave from './pdoor-save';
 import pdoorLoad from './pdoor-load';
+import factionSave from './faction-save';
+import factionLoad from './faction-load';
 
 export {
   bankDeposit,
@@ -21,5 +23,7 @@ export {
   ibankSave,
   ibankLoad,
   pdoorSave,
-  pdoorLoad
+  pdoorLoad,
+  factionSave,
+  factionLoad
 };
