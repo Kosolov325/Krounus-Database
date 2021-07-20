@@ -1,0 +1,646 @@
+22:55:40 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4310) from the ground. 
+ 22:55:41 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4368) from the ground. 
+ 22:55:41 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4238) from the ground. 
+ 22:55:41 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3960) from the ground. 
+ 22:55:42 - *LOCAL* [Yawn_WoofDog] Romario halt 
+ 22:55:45 - MasterSmith_Romario_Norway dropped Iron Bar(IID: 3960) on the ground. 
+ 22:55:45 - *LOCAL* [Yawn_WoofDog] Show pouch 
+ 22:55:49 - MasterSmith_Romario_Norway dropped Iron Bar(IID: 4238) on the ground. 
+ 22:55:50 - MasterSmith_Romario_Norway dropped Iron Bar(IID: 4368) on the ground. 
+ 22:55:50 - MasterSmith_Romario_Norway dropped Iron Bar(IID: 4310) on the ground. 
+ 22:55:55 - *LOCAL* [Yawn_WoofDog] show pouch 
+ 22:55:56 - MasterSmith_Romario_Norway picked up Knobbed Mace(IID: 4119) from the ground. 
+ 22:55:58 - MasterSmith_Romario_Norway attacked Yawn_WoofDog with Knobbed Mace dealing 6 damage. FIDs: 4, 5. 
+ 22:56:03 - MasterSmith_Romario_Norway attacked Yawn_WoofDog with Knobbed Mace dealing 1 damage. FIDs: 4, 5. 
+ 22:56:06 - Yawn_WoofDog attacked MasterSmith_Romario_Norway with fist dealing 8 damage. FIDs: 5, 4. 
+ 22:56:07 - Yawn_WoofDog attacked MasterSmith_Romario_Norway with Long Awlpike dealing 38 damage. FIDs: 5, 4. 
+ 22:56:12 - MasterSmith_Romario_Norway attacked Yawn_WoofDog with Knobbed Mace dealing 0 damage. FIDs: 4, 5. 
+ 22:56:16 - Yawn_WoofDog attacked MasterSmith_Romario_Norway with Long Awlpike dealing 15 damage. FIDs: 5, 4. 
+ 22:56:19 - MasterSmith_Romario_Norway attacked Yawn_WoofDog with Knobbed Mace dealing 12 damage. FIDs: 4, 5. 
+ 22:56:21 - Yawn_WoofDog attacked MasterSmith_Romario_Norway with Spiked Mace dealing 48 damage. FIDs: 5, 4. 
+ 22:56:21 - Yawn_WoofDog <img=ico_blunt> MasterSmith_Romario_Norway 
+ 22:56:21 - Yawn_WoofDog killed a member of a friendly faction! 
+ 22:56:21 - MasterSmith_Romario_Norway dropped a loot (IID: 3978). 
+ 22:56:22 - Yawn_WoofDog dropped Spiked Mace(IID: 3978) on the ground. 
+ 22:56:22 - Yawn_WoofDog picked up Money Bag(IID: 4119) from the ground. 
+ 22:56:23 - Yawn_WoofDog used pouch containing 5533 gold. 
+ 22:56:24 - Yawn_WoofDog picked up Spiked Mace(IID: 3978) from the ground. 
+ 22:56:24 - Fishing now is way more profitable. Catch some fishes and cook them to get paid. 
+ 22:56:30 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 22:56:33 - Yawn_WoofDog put Spiked Mace into an inventory (IID: 2706). 
+ 22:56:35 - Yawn_WoofDog put Heavy Heater Shield into an inventory (IID: 2706). 
+ 22:56:36 - Yawn_WoofDog picked up Iron Bar(IID: 4238) from the ground. 
+ 22:56:36 - Yawn_WoofDog picked up Iron Bar(IID: 3960) from the ground. 
+ 22:56:41 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 22:56:42 - Yawn_WoofDog put Iron Bar into an inventory (IID: 2706). 
+ 22:56:42 - Yawn_WoofDog put Iron Bar into an inventory (IID: 2706). 
+ 22:56:43 - Yawn_WoofDog picked up Iron Bar(IID: 4368) from the ground. 
+ 22:56:43 - Yawn_WoofDog picked up Iron Bar(IID: 4310) from the ground. 
+ 22:56:46 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 22:56:47 - Yawn_WoofDog put Iron Bar into an inventory (IID: 2706). 
+ 22:56:47 - Yawn_WoofDog put Iron Bar into an inventory (IID: 2706). 
+ 22:56:48 - Yawn_WoofDog picked up Long Iron Bar(IID: 4011) from the ground. 
+ 22:56:49 - Yawn_WoofDog picked up Long Iron Bar(IID: 4093) from the ground. 
+ 22:56:51 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 22:56:52 - [MasterSmith_Romario_Norway] fucking rat  
+ 22:56:52 - Yawn_WoofDog put Long Iron Bar into an inventory (IID: 2706). 
+ 22:56:52 - Yawn_WoofDog put Long Iron Bar into an inventory (IID: 2706). 
+ 22:56:54 - Yawn_WoofDog took Spiked Mace from an inventory (IID: 2706). 
+ 22:56:54 - Yawn_WoofDog took Heavy Heater Shield from an inventory (IID: 2706). 
+ 22:56:56 - MasterSmith_Romario_Norway dropped Club(IID: 4147) on the ground. 
+ 22:56:56 - [Yawn_WoofDog] how cute 
+ 22:56:56 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 22:57:01 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 22:57:02 - Yawn_WoofDog dropped Spiked Mace(IID: 3913) on the ground. 
+ 22:57:02 - Yawn_WoofDog picked up Knobbed Mace(IID: 3978) from the ground. 
+ 22:57:05 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 22:57:06 - Yawn_WoofDog put Knobbed Mace into an inventory (IID: 2706). 
+ 22:57:06 - Yawn_WoofDog picked up Spiked Mace(IID: 3913) from the ground. 
+ 22:57:07 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 22:57:08 - [Yawn_WoofDog] dumb dog 
+ 22:57:18 - Player Yawn_WoofDog started a poll: Make Yawn_WoofDog the lord of Black Lives Dont Matter 
+ 22:57:19 - [MasterSmith_Romario_Norway] Иди нахуй, мудень 
+ 22:57:21 - Yawn_WoofDog is now the lord of the Black Lives Dont Matter. 
+ 22:57:30 - [Yawn_WoofDog] russian shit 
+ 22:57:40 - [Yawn_WoofDog] Speak English or dont talk at all 
+ 22:57:51 - [MasterSmith_Romario_Norway] Пошёл нахер 
+ 22:57:58 - [MasterSmith_Romario_Norway] use translater 
+ 22:58:08 - [MasterSmith_Romario_Norway] fucking whore 
+ 22:58:12 - [Yawn_WoofDog] Hou je bek dan kanker neger met je kanker kop, ik neuk je kanker moeder in de kut en sop mijn sperma in je kont 
+ 22:58:15 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 93). 
+ 22:58:20 - [Yawn_WoofDog] There you go 
+ 22:58:38 - [Yawn_WoofDog] I legit cant even type your dogshit language in translator 
+ 22:59:05 - [Yawn_WoofDog] But you can put mine in translate :) 
+ 22:59:29 - [MasterSmith_Romario_Norway] Честно, мне похер что ты там пишешь) 
+ 22:59:39 - [Yawn_WoofDog] Legit no idea what ur saying so legit dont care 
+ 22:59:39 - [MasterSmith_Romario_Norway] Лошарик смешарик 
+ 22:59:41 - [Yawn_WoofDog] little nobody 
+ 22:59:43 - [Yawn_WoofDog] no name 
+ 22:59:52 - [MasterSmith_Romario_Norway] xDDD 
+ 23:00:08 - Yawn_WoofDog detached a cart from his horse (IID: 2706) (x:51663, y:5062, z:3926). 
+ 23:00:09 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:00:12 - [MasterSmith_Romario_Norway] say sergant in armor when kill enginer))) 
+ 23:00:12 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:00:17 - [MasterSmith_Romario_Norway] Lol 
+ 23:00:24 - [Yawn_WoofDog] Id kill u even if ur sergeant mate 
+ 23:00:25 - [MasterSmith_Romario_Norway] Noob 
+ 23:00:25 - [Yawn_WoofDog] ur legit dog 
+ 23:00:28 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 93). 
+ 23:00:30 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:00:38 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:00:40 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:00:49 - Yawn_WoofDog looked into a cart (IID: 3024). 
+ 23:00:54 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3978) from the ground. 
+ 23:00:54 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3913) from the ground. 
+ 23:00:56 - [Yawn_WoofDog] Talk again with your little 300 hours 
+ 23:00:58 - [Yawn_WoofDog] dumb shitter 
+ 23:01:22 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4093) from the ground. 
+ 23:01:23 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3913) from the ground. 
+ 23:01:23 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:01:23 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3978) from the ground. 
+ 23:01:27 - You can now duel on the Arena Grounds. Go to the general arena of the map, win duels, and get some payment for entertaining the public! 
+ 23:01:45 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3978) from the ground. 
+ 23:01:45 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 4011) from the ground. 
+ 23:01:49 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 4011) from the ground. 
+ 23:01:52 - MasterSmith_Romario_Norway picked up Leather Roll(IID: 4011) from the ground. 
+ 23:01:54 - MasterSmith_Romario_Norway picked up Leather Piece(IID: 3913) from the ground. 
+ 23:01:55 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 93). 
+ 23:02:09 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:02:12 - [Yawn_WoofDog] are you gonna piss and shit? 
+ 23:02:29 - Yawn_WoofDog withdrew 3005 gold from chest belonging to Black Lives Dont Matter. 
+ 23:02:40 - Yawn_WoofDog put Rus Scale Armor into an inventory of Black Lives Dont Matter (IID: 1303). 
+ 23:02:41 - Yawn_WoofDog put Warlord Helmet into an inventory of Black Lives Dont Matter (IID: 1303). 
+ 23:02:42 - Yawn_WoofDog put Steel Greaves into an inventory of Black Lives Dont Matter (IID: 1303). 
+ 23:02:42 - [MasterSmith_Romario_Norway] where are you from?? 
+ 23:02:44 - Yawn_WoofDog put Two Handed Axe into an inventory of Black Lives Dont Matter (IID: 1303). 
+ 23:03:00 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 93). 
+ 23:03:03 - [Yawn_WoofDog] put my text into translate and u will know 
+ 23:03:09 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3913) from the ground. 
+ 23:03:09 - [Yawn_WoofDog] Dont have to tell you 
+ 23:03:22 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3913) from the ground. 
+ 23:03:22 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4310) from the ground. 
+ 23:03:35 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3913) from the ground. 
+ 23:03:36 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 4368) from the ground. 
+ 23:03:45 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:03:46 - Yawn_WoofDog put Spiked Mace into an inventory (IID: 2706). 
+ 23:03:47 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4368) from the ground. 
+ 23:03:47 - Yawn_WoofDog took Linen Cloth from an inventory (IID: 2706). 
+ 23:03:47 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3913) from the ground. 
+ 23:03:47 - Yawn_WoofDog took Linen Cloth from an inventory (IID: 2706). 
+ 23:03:49 - Yawn_WoofDog put Heavy Heater Shield into an inventory (IID: 2706). 
+ 23:03:49 - Yawn_WoofDog took Linen Cloth from an inventory (IID: 2706). 
+ 23:03:58 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3913) from the ground. 
+ 23:03:59 - MasterSmith_Romario_Norway picked up Leather Piece(IID: 3978) from the ground. 
+ 23:04:02 - MasterSmith_Romario_Norway picked up Leather Piece(IID: 4093) from the ground. 
+ 23:04:02 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:04:03 - MasterSmith_Romario_Norway dropped Leather Piece(IID: 4093) on the ground. 
+ 23:04:03 - Yawn_WoofDog took Linen Cloth from an inventory (IID: 2706). 
+ 23:04:03 - Yawn_WoofDog took Linen Cloth from an inventory (IID: 2706). 
+ 23:04:03 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 3978) from the ground. 
+ 23:04:04 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 93). 
+ 23:04:06 - Yawn_WoofDog took Spiked Mace from an inventory (IID: 2706). 
+ 23:04:12 - MasterSmith_Romario_Norway attacked Horse (Saddle Horse (AID: 92)) with Linen Cloth dealing 0 damage. FID: 4 
+ 23:04:19 - Yawn_WoofDog looked into a cart (IID: 2706). 
+ 23:04:22 - Yawn_WoofDog took Long Iron Bar from an inventory (IID: 2706). 
+ 23:04:23 - Yawn_WoofDog took Iron Bar from an inventory (IID: 2706). 
+ 23:04:24 - Yawn_WoofDog took Heavy Heater Shield from an inventory (IID: 2706). 
+ 23:04:26 - Yawn_WoofDog put Heavy Heater Shield into an inventory (IID: 2706). 
+ 23:04:26 - Yawn_WoofDog put Spiked Mace into an inventory (IID: 2706). 
+ 23:04:29 - Yawn_WoofDog put Long Awlpike into an inventory (IID: 2706). 
+ 23:04:33 - Yawn_WoofDog dropped Heavy Heater Shield(IID: 3978) on the ground. 
+ 23:04:34 - Yawn_WoofDog picked up Heavy Heater Shield(IID: 3978) from the ground. 
+ 23:04:49 - Yawn_WoofDog picked up Spiked One Handed Battle Axe(IID: 3978) from the ground. 
+ 23:04:52 - Yawn_WoofDog dropped a loot (IID: 3978). 
+ 23:04:52 - Yawn_WoofDog looted a corpse (IID: 3978). 
+ 23:04:54 - Yawn_WoofDog dropped Spiked Mace(IID: 3913) on the ground. 
+ 23:04:55 - Yawn_WoofDog dropped Long Awlpike(IID: 3978) on the ground. 
+ 23:04:55 - Yawn_WoofDog dropped Spiked One Handed Battle Axe(IID: 4368) on the ground. 
+ 23:04:56 - Yawn_WoofDog dropped Heavy Heater Shield(IID: 3960) on the ground. 
+ 23:04:57 - Yawn_WoofDog picked up Spiked One Handed Battle Axe(IID: 4368) from the ground. 
+ 23:04:58 - Yawn_WoofDog picked up Spiked Mace(IID: 3913) from the ground. 
+ 23:04:59 - Yawn_WoofDog picked up Heavy Heater Shield(IID: 3960) from the ground. 
+ 23:04:59 - Yawn_WoofDog picked up Long Awlpike(IID: 3978) from the ground. 
+ 23:05:02 - Yawn_WoofDog dropped a loot (IID: 3978). 
+ 23:05:02 - Yawn_WoofDog looted a corpse (IID: 3978). 
+ 23:05:05 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 93). 
+ 23:05:13 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 92). 
+ 23:05:14 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:05:24 - MasterSmith_Romario_Norway picked up Leather Piece(IID: 4011) from the ground. 
+ 23:05:25 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 92). 
+ 23:05:27 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 92). 
+ 23:05:30 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 92). 
+ 23:05:33 - Yawn_WoofDog attached a cart to his horse (IID: 2706) (x:51689, y:5072, z:3926). 
+ 23:05:35 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3978) from the ground. 
+ 23:05:36 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 4011) from the ground. 
+ 23:05:47 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:05:47 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3978) from the ground. 
+ 23:05:52 - Yawn_WoofDog detached a cart from his horse (IID: 2706) (x:49577, y:6742, z:3927). 
+ 23:06:07 - Yawn_WoofDog looked into a cart (IID: 2749). 
+ 23:06:10 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:06:12 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3960) from the ground. 
+ 23:06:18 - Yawn_WoofDog attached a cart to his horse (IID: 1686) (x:51976, y:10266, z:3900). 
+ 23:06:24 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3960) from the ground. 
+ 23:06:24 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3978) from the ground. 
+ 23:06:27 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 3978) from the ground. 
+ 23:06:28 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 92). 
+ 23:06:29 - Hunt wild animals with the huntsman class and get paid. If you also cook the meat, you will come out with even better profits. 
+ 23:06:36 - Yawn_WoofDog detached a cart from his horse (IID: 1686) (x:50569, y:9345, z:3900). 
+ 23:06:59 - Black Lives Dont Matter (FID: 5) are now known as I yawn on Dogs like you. 
+ 23:07:36 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 92). 
+ 23:07:42 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3960) from the ground. 
+ 23:07:42 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3978) from the ground. 
+ 23:08:04 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3978) from the ground. 
+ 23:08:05 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:08:05 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3913) from the ground. 
+ 23:08:06 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3960) from the ground. 
+ 23:08:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3960) from the ground. 
+ 23:08:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3913) from the ground. 
+ 23:08:28 - MasterSmith_Romario_Norway picked up Leather Piece(IID: 4093) from the ground. 
+ 23:08:30 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 4093) from the ground. 
+ 23:08:31 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 92). 
+ 23:09:20 - Yawn_WoofDog looked into a cart (IID: 2704). 
+ 23:09:23 - Yawn_WoofDog attached a cart to his horse (IID: 2704) (x:76393, y:37826, z:2031). 
+ 23:09:41 - Player MasterSmith_Romario_Norway  (GUID: 3368111) deposited 50000 gold. 1100000 gold in the bank. 
+ 23:10:03 - The player MasterSmith_Romario_Norway has disconnect with these items inside item banking:A131A298A347A364A503A429A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 23:10:03 - MasterSmith_Romario_Norway has left the game with ID: 3368111 
+ 23:10:03 - MasterSmith_Romario_Norway had these items: H:-1, B:-1, G:-1, F:-1, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 23:10:03 -  <img=ico_headshot> MasterSmith_Romario_Norway 
+ 23:10:04 - MasterSmith_Romario_Norway dropped a loot (IID: 4093). 
+ 23:10:11 - Yawn_WoofDog detached a cart from his horse (IID: 2704) (x:72284, y:43094, z:1363). 
+ 23:10:13 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:10:30 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:10:57 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:11:09 - Yawn_WoofDog looked into a cart (IID: 2708). 
+ 23:11:13 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:11:20 - Yawn_WoofDog attached a cart to his horse (IID: 2705) (x:76390, y:37796, z:2031). 
+ 23:11:32 - Yawn_WoofDog looked into a cart (IID: 2705). 
+ 23:11:32 - Smith weaponry and armors in the local shops and repair structures. Smithing is a very high profitable path for you. 
+ 23:11:40 - Yawn_WoofDog detached a cart from his horse (IID: 2705) (x:72155, y:41635, z:1272). 
+ 23:11:55 - Yawn_WoofDog attacked Horse (Yawn_WoofDog) with fist dealing 9 damage. FIDs: 5, 5. 
+ 23:12:11 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:12:16 - Yawn_WoofDog took Steel Shield from an inventory (IID: 4360). 
+ 23:12:17 - Yawn_WoofDog put Sallet into an inventory (IID: 4360). 
+ 23:12:18 - Yawn_WoofDog put Rus Cavalry Boots into an inventory (IID: 4360). 
+ 23:12:19 - Yawn_WoofDog put Studded Coat with Mail into an inventory (IID: 4360). 
+ 23:12:20 - Yawn_WoofDog put Leather Gloves into an inventory (IID: 4360). 
+ 23:12:22 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:14:12 - Yawn_WoofDog has dismounted a Saddle Horse (AID: 27). 
+ 23:14:27 - Yawn_WoofDog took Warlord Helmet from an inventory of I yawn on Dogs like you (IID: 1303). 
+ 23:14:27 - Yawn_WoofDog took Rus Scale Armor from an inventory of I yawn on Dogs like you (IID: 1303). 
+ 23:14:28 - Yawn_WoofDog took Steel Greaves from an inventory of I yawn on Dogs like you (IID: 1303). 
+ 23:14:50 - Yawn_WoofDog has mounted a Saddle Horse (AID: 27). 
+ 23:15:05 - The player Yawn_WoofDog has disconnect with these items inside item banking:A128A295A351A365A97A355A124A305A353A365A255A0A130A220A352A368A343A0A519A0A 
+ 23:15:05 - Yawn_WoofDog has left the game with ID: 2393001 
+ 23:15:05 - Yawn_WoofDog had these items: H:78, B:293, G:351, F:-1, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 23:15:05 -  <img=ico_headshot> Yawn_WoofDog 
+ 23:15:05 - Yawn_WoofDog dropped a loot (IID: 4310). 
+ 23:15:44 - MasterSmith_Romario_Norway has joined the game with ID: 3368111 
+ 23:15:55 - MasterSmith_Romario_Norway is now the lord of the Kingdom of Norway. 
+ 23:15:55 - MasterSmith_Romario_Norway joined Kingdom of Norway (4). 
+ 23:15:55 - MasterSmith_Romario_Norway had these items: H:-1, B:-1, G:-1, F:-1, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 23:17:15 - Keep your important items safe in the Item Banking. Go to the main bank of the map, usually close to the commoner spawn to access it. 
+ 23:17:27 - MasterSmith_Romario_Norway picked up Bucket(IID: 4310) from the ground. 
+ 23:17:41 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:17:42 - MasterSmith_Romario_Norway dropped Club(IID: 4310) on the ground. 
+ 23:17:46 - MasterSmith_Romario_Norway picked up Flour Sack(IID: 4093) from the ground. 
+ 23:17:52 - MasterSmith_Romario_Norway picked up Bread(IID: 4093) from the ground. 
+ 23:17:52 - MasterSmith_Romario_Norway picked up Bread(IID: 3913) from the ground. 
+ 23:17:52 - MasterSmith_Romario_Norway picked up Bread(IID: 3960) from the ground. 
+ 23:17:54 - MasterSmith_Romario_Norway dropped Bucket(IID: 3960) on the ground. 
+ 23:17:55 - MasterSmith_Romario_Norway picked up Bread(IID: 4011) from the ground. 
+ 23:19:40 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:20:37 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:20:44 - MasterSmith_Romario_Norway picked up Branch(IID: 3913) from the ground. 
+ 23:20:44 - MasterSmith_Romario_Norway picked up Branch(IID: 4011) from the ground. 
+ 23:20:49 - MasterSmith_Romario_Norway picked up Branch(IID: 4011) from the ground. 
+ 23:20:59 - MasterSmith_Romario_Norway picked up Wooden Pole(IID: 3913) from the ground. 
+ 23:20:59 - MasterSmith_Romario_Norway picked up Wooden Pole(IID: 4011) from the ground. 
+ 23:21:09 - MasterSmith_Romario_Norway picked up Short Wooden Pole(IID: 4011) from the ground. 
+ 23:21:09 - MasterSmith_Romario_Norway picked up Short Wooden Pole(IID: 4093) from the ground. 
+ 23:21:09 - MasterSmith_Romario_Norway picked up Short Wooden Pole(IID: 3913) from the ground. 
+ 23:21:09 - MasterSmith_Romario_Norway picked up Short Wooden Pole(IID: 3978) from the ground. 
+ 23:21:48 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3978) from the ground. 
+ 23:21:55 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 4093) from the ground. 
+ 23:21:55 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3913) from the ground. 
+ 23:21:55 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3978) from the ground. 
+ 23:22:17 - Commoner drop 10% of their money pouch, while in faction members drop half of their money. Consider that when you go out serfing. 
+ 23:22:40 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4119) from the ground. 
+ 23:22:40 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4368) from the ground. 
+ 23:22:41 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4093) from the ground. 
+ 23:22:41 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3978) from the ground. 
+ 23:23:04 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3980) from the ground. 
+ 23:23:04 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3913) from the ground. 
+ 23:23:05 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:23:05 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4238) from the ground. 
+ 23:23:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 4011) from the ground. 
+ 23:23:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 4238) from the ground. 
+ 23:23:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 4093) from the ground. 
+ 23:23:27 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 3978) from the ground. 
+ 23:24:28 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:24:35 - MasterSmith_Romario_Norway picked up Iron War Axe(IID: 3978) from the ground. 
+ 23:24:46 - MasterSmith_Romario_Norway put Iron War Axe into an inventory (IID: 4009). 
+ 23:26:02 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:26:05 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:26:55 - MasterSmith_Romario_Norway withdrew 11462 gold from chest belonging to Trading Guild. 
+ 23:27:07 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:27:12 - MasterSmith_Romario_Norway looked into a cart (IID: 1696). 
+ 23:27:15 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:27:20 - Cooking, Repairing or Healing others now gives you payments. 
+ 23:27:52 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:28:10 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:28:13 - MasterSmith_Romario_Norway attached a cart to his horse (IID: 2705) (x:72289, y:41534, z:1272). 
+ 23:28:14 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:28:21 - MasterSmith_Romario_Norway looked into a cart (IID: 2705). 
+ 23:28:23 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:28:25 - MasterSmith_Romario_Norway detached a cart from his horse (IID: 2705) (x:72256, y:41403, z:1272). 
+ 23:30:52 - MasterSmith_Romario_Norway hit a ship (IID: 2535). 
+ 23:31:02 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:31:05 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:32:25 - Fishing now is way more profitable. Catch some fishes and cook them to get paid. 
+ 23:32:30 - MasterSmith_Romario_Norway hit a ship (IID: 2535). 
+ 23:33:30 - MasterSmith_Romario_Norway looked into a cart (IID: 3096). 
+ 23:34:02 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:34:11 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 4310) from the ground. 
+ 23:34:11 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3960) from the ground. 
+ 23:34:33 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3978) from the ground. 
+ 23:34:33 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3960) from the ground. 
+ 23:34:33 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4093) from the ground. 
+ 23:34:34 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4310) from the ground. 
+ 23:34:56 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3913) from the ground. 
+ 23:34:57 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4238) from the ground. 
+ 23:35:02 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 4238) from the ground. 
+ 23:35:27 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 4238) from the ground. 
+ 23:35:30 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3980) from the ground. 
+ 23:35:30 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4011) from the ground. 
+ 23:35:35 - MasterSmith_Romario_Norway looked into a cart (IID: 3023). 
+ 23:35:38 - MasterSmith_Romario_Norway took Cooked Meat from an inventory (IID: 3023). 
+ 23:35:45 - MasterSmith_Romario_Norway dropped Cooked Meat(IID: 4011) on the ground. 
+ 23:36:39 - MasterSmith_Romario_Norway picked up Leather Roll(IID: 3980) from the ground. 
+ 23:36:43 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3978) from the ground. 
+ 23:36:43 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4093) from the ground. 
+ 23:37:08 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4310) from the ground. 
+ 23:37:08 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3960) from the ground. 
+ 23:37:14 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 3960) from the ground. 
+ 23:37:27 - You can now duel on the Arena Grounds. Go to the general arena of the map, win duels, and get some payment for entertaining the public! 
+ 23:37:49 - MasterSmith_Romario_Norway picked up Iron Piece(IID: 4310) from the ground. 
+ 23:37:50 - MasterSmith_Romario_Norway picked up Iron Piece(IID: 3960) from the ground. 
+ 23:39:16 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3960) from the ground. 
+ 23:39:18 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 3960) from the ground. 
+ 23:39:29 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4310) from the ground. 
+ 23:39:36 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4093) from the ground. 
+ 23:40:03 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 3960) from the ground. 
+ 23:40:18 - MasterSmith_Romario_Norway picked up Claymore(IID: 3960) from the ground. 
+ 23:40:31 - MasterSmith_Romario_Norway picked up Crusader Sword(IID: 3960) from the ground. 
+ 23:40:47 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 3960) from the ground. 
+ 23:40:48 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4093) from the ground. 
+ 23:40:48 - MasterSmith_Romario_Norway picked up Short Iron Bar(IID: 4310) from the ground. 
+ 23:41:03 - MasterSmith_Romario_Norway picked up Linen Cloth(IID: 4310) from the ground. 
+ 23:41:05 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:41:07 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:41:30 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:41:34 - MasterSmith_Romario_Norway looked into a cart (IID: 3094). 
+ 23:41:36 - MasterSmith_Romario_Norway took Spiked Mace from an inventory (IID: 3094). 
+ 23:41:37 - MasterSmith_Romario_Norway took Spiked Mace from an inventory (IID: 3094). 
+ 23:41:48 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:41:54 - MasterSmith_Romario_Norway looked into a cart (IID: 3559). 
+ 23:41:58 - MasterSmith_Romario_Norway looked into a cart (IID: 1701). 
+ 23:42:02 - MasterSmith_Romario_Norway looked into a cart (IID: 3095). 
+ 23:42:10 - MasterSmith_Romario_Norway looked into a cart (IID: 3100). 
+ 23:42:17 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:42:29 - Hunt wild animals with the huntsman class and get paid. If you also cook the meat, you will come out with even better profits. 
+ 23:42:42 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:42:46 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:43:08 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:43:10 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 48 damage (IID: 3173). 
+ 23:43:13 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 43 damage (IID: 3173). 
+ 23:43:14 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 43 damage (IID: 3173). 
+ 23:43:15 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 43 damage (IID: 3173). 
+ 23:43:23 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 39 damage (IID: 3186). 
+ 23:43:29 - MasterSmith_Romario_Norway withdrew 2361 gold from chest belonging to "you get gas today :)". 
+ 23:43:33 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:44:11 - MasterSmith_Romario_Norway looked into a cart (IID: 3301). 
+ 23:45:13 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:45:37 - MasterSmith_Romario_Norway picked up Iron Ore(IID: 4310) from the ground. 
+ 23:45:52 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4011) from the ground. 
+ 23:45:53 - MasterSmith_Romario_Norway picked up Iron Bar(IID: 4310) from the ground. 
+ 23:46:04 - MasterSmith_Romario_Norway picked up Long Iron Bar(IID: 4310) from the ground. 
+ 23:47:02 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:47:17 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:47:19 - MasterSmith_Romario_Norway hit chest of Archduchy of Karsington dealing 48 damage (IID: 2010). 
+ 23:47:23 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:47:32 - Smith weaponry and armors in the local shops and repair structures. Smithing is a very high profitable path for you. 
+ 23:47:34 - MasterSmith_Romario_Norway withdrew 1596 gold from chest belonging to Archduchy of Karsington. 
+ 23:47:40 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:47:41 - MasterSmith_Romario_Norway hit chest of Archduchy of Karsington dealing 48 damage (IID: 2389). 
+ 23:47:43 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:49:14 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:49:21 - MasterSmith_Romario_Norway picked up Lock Pick(IID: 4310) from the ground. 
+ 23:49:22 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:51:27 - Levy_Megas_Karsington has joined the game with ID: 5251546 
+ 23:51:40 - Levy_Megas_Karsington joined Archduchy of Karsington (3). 
+ 23:51:40 - Levy_Megas_Karsington had these items: H:126, B:295, G:351, F:362, HO:0, 1:381, 2:519, 3:429, 4:-1 
+ 23:52:29 - MasterSmith_Romario_Norway looked into a cart (IID: 1700). 
+ 23:52:36 - Keep your important items safe in the Item Banking. Go to the main bank of the map, usually close to the commoner spawn to access it. 
+ 23:52:37 - Levy_Megas_Karsington looked into a cart (IID: 3314). 
+ 23:52:49 - MasterSmith_Romario_Norway withdrew 286 gold from chest belonging to "you get gas today :)". 
+ 23:53:03 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:53:04 - Levy_Megas_Karsington looked into a cart (IID: 3557). 
+ 23:53:06 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 8 damage (IID: 750). 
+ 23:53:10 - MasterSmith_Romario_Norway put Blue Shirt into an inventory of "you get gas today :)" (IID: 750). 
+ 23:53:13 - MasterSmith_Romario_Norway took Byrnie with Green Tunic from an inventory of "you get gas today :)" (IID: 750). 
+ 23:53:14 - MasterSmith_Romario_Norway put Straw Hat into an inventory of "you get gas today :)" (IID: 750). 
+ 23:53:15 - MasterSmith_Romario_Norway took Footman Helmet from an inventory of "you get gas today :)" (IID: 750). 
+ 23:53:19 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:53:21 - Levy_Megas_Karsington took Chapel De Fer with Cloth from an inventory of Archduchy of Karsington (IID: 3566). 
+ 23:54:00 - Player MasterSmith_Romario_Norway  (GUID: 3368111) deposited 35000 gold. 1135000 gold in the bank. 
+ 23:54:16 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 23:54:41 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:54:44 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 8 damage (IID: 3311). 
+ 23:54:58 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 5 damage (IID: 3312). 
+ 23:55:14 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 39 damage (IID: 3311). 
+ 23:55:15 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 39 damage (IID: 3311). 
+ 23:55:16 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 39 damage (IID: 3311). 
+ 23:55:17 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 43 damage (IID: 3311). 
+ 23:55:18 - MasterSmith_Romario_Norway hit chest of "you get gas today :)" dealing 43 damage (IID: 3311). 
+ 23:55:19 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:55:49 - Kingdom of Norway and "you get gas today :)" have made peace. 
+ 23:55:52 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 66 damage (IID: 449). 
+ 23:55:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:55:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:55:57 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:55:58 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:56:00 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:01 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:03 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:09 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 61 damage (IID: 449). 
+ 23:56:15 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 63 damage (IID: 449). 
+ 23:56:16 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:56:18 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 61 damage (IID: 449). 
+ 23:56:20 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 62 damage (IID: 449). 
+ 23:56:22 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 68 damage (IID: 449). 
+ 23:56:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 63 damage (IID: 449). 
+ 23:56:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:28 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 63 damage (IID: 449). 
+ 23:56:29 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:56:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:32 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:37 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:38 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 449). 
+ 23:56:40 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:41 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 449). 
+ 23:56:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:44 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:56:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:56:50 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:56:52 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:55 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:56:57 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 449). 
+ 23:56:58 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:57:00 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 55 damage (IID: 449). 
+ 23:57:01 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:57:03 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:04 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 449). 
+ 23:57:06 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:10 - *LOCAL* [Levy_Megas_Karsington] hello 
+ 23:57:12 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:13 - *LOCAL* [MasterSmith_Romario_Norway] hi 
+ 23:57:13 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 449). 
+ 23:57:15 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:17 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:57:19 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:21 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:23 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:26 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:27 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 449). 
+ 23:57:29 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:37 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 449). 
+ 23:57:39 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:39 - Commoner drop 10% of their money pouch, while in faction members drop half of their money. Consider that when you go out serfing. 
+ 23:57:41 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:57:42 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 4 damage (IID: 448). 
+ 23:57:42 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 51 damage (IID: 449). 
+ 23:57:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 52 damage (IID: 449). 
+ 23:57:45 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 55 damage (IID: 449). 
+ 23:57:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:48 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 5 damage (IID: 448). 
+ 23:57:48 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:57:49 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 5 damage (IID: 448). 
+ 23:57:50 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:57:50 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 3 damage (IID: 448). 
+ 23:57:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:57:52 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 2 damage (IID: 448). 
+ 23:57:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:57:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:57:56 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 60 damage (IID: 449). 
+ 23:57:57 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 57 damage (IID: 449). 
+ 23:57:59 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:58:00 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:58:02 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 449). 
+ 23:58:03 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:58:07 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:58:07 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 28 damage (IID: 448). 
+ 23:58:09 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 448). 
+ 23:58:09 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 48 damage (IID: 449). 
+ 23:58:10 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 44 damage (IID: 449). 
+ 23:58:11 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 40 damage (IID: 449). 
+ 23:58:12 - MasterSmith_Romario_Norway attacked Horse (Levy_Megas_Karsington) with Spiked Mace dealing 30 damage. FIDs: 4, 3. 
+ 23:58:12 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 20 damage (IID: 449). 
+ 23:58:13 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 62 damage (IID: 449). 
+ 23:58:15 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 68 damage (IID: 449). 
+ 23:58:15 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 35 damage (IID: 449). 
+ 23:58:16 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 449). 
+ 23:58:17 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 449). 
+ 23:58:18 - MasterSmith_Romario_Norway attacked Horse (Levy_Megas_Karsington) with Spiked Mace dealing 28 damage. FIDs: 4, 3. 
+ 23:58:18 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 448). 
+ 23:58:18 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 50 damage (IID: 449). 
+ 23:58:19 - MasterSmith_Romario_Norway attacked Horse (Levy_Megas_Karsington) with Spiked Mace dealing 31 damage. FIDs: 4, 3. 
+ 23:58:19 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 449). 
+ 23:58:19 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 449). 
+ 23:58:20 - MasterSmith_Romario_Norway attacked Horse (Levy_Megas_Karsington) with Spiked Mace dealing 32 damage. FIDs: 4, 3. 
+ 23:58:20 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 23:58:20 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 21 damage (IID: 449). 
+ 23:58:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 85 damage (IID: 449). 
+ 23:58:24 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:58:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 89 damage (IID: 449). 
+ 23:58:27 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 87 damage (IID: 449). 
+ 23:58:27 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 449). 
+ 23:58:28 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 29 damage (IID: 449). 
+ 23:58:31 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 23:58:41 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:58:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 69 damage (IID: 627). 
+ 23:58:45 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 95 damage (IID: 627). 
+ 23:58:45 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 23:58:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 86 damage (IID: 627). 
+ 23:58:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 50 damage (IID: 627). 
+ 23:58:48 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:58:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 627). 
+ 23:58:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:58:52 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 627). 
+ 23:58:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 83 damage (IID: 627). 
+ 23:58:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:58:55 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:58:56 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 84 damage (IID: 627). 
+ 23:58:57 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 83 damage (IID: 627). 
+ 23:58:58 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:58:59 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:59:00 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:01 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 49 damage (IID: 627). 
+ 23:59:01 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 32 damage (IID: 627). 
+ 23:59:02 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 627). 
+ 23:59:02 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 28 damage (IID: 627). 
+ 23:59:03 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 63 damage (IID: 627). 
+ 23:59:03 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 24 damage (IID: 627). 
+ 23:59:04 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 60 damage (IID: 627). 
+ 23:59:04 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 22 damage (IID: 627). 
+ 23:59:05 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 33 damage (IID: 627). 
+ 23:59:05 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 35 damage (IID: 627). 
+ 23:59:06 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:07 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:08 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:09 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:09 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 38 damage (IID: 627). 
+ 23:59:10 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 93 damage (IID: 627). 
+ 23:59:10 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:11 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 37 damage (IID: 627). 
+ 23:59:11 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:12 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:12 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 49 damage (IID: 627). 
+ 23:59:13 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 35 damage (IID: 627). 
+ 23:59:13 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 49 damage (IID: 627). 
+ 23:59:14 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 33 damage (IID: 627). 
+ 23:59:15 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 60 damage (IID: 627). 
+ 23:59:15 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 25 damage (IID: 627). 
+ 23:59:16 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 627). 
+ 23:59:16 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 23 damage (IID: 627). 
+ 23:59:17 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 68 damage (IID: 627). 
+ 23:59:17 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:18 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 64 damage (IID: 627). 
+ 23:59:18 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:19 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 62 damage (IID: 627). 
+ 23:59:19 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:20 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 72 damage (IID: 627). 
+ 23:59:20 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:21 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 70 damage (IID: 627). 
+ 23:59:21 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:22 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 68 damage (IID: 627). 
+ 23:59:22 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:23 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 34 damage (IID: 627). 
+ 23:59:23 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 32 damage (IID: 627). 
+ 23:59:24 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 39 damage (IID: 627). 
+ 23:59:25 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 41 damage (IID: 627). 
+ 23:59:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:26 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 37 damage (IID: 627). 
+ 23:59:26 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 627). 
+ 23:59:27 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 30 damage (IID: 627). 
+ 23:59:27 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 60 damage (IID: 627). 
+ 23:59:28 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 24 damage (IID: 627). 
+ 23:59:29 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 55 damage (IID: 627). 
+ 23:59:29 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 23 damage (IID: 627). 
+ 23:59:30 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 72 damage (IID: 627). 
+ 23:59:30 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 61 damage (IID: 627). 
+ 23:59:31 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:32 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 69 damage (IID: 627). 
+ 23:59:32 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:33 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 72 damage (IID: 627). 
+ 23:59:33 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 65 damage (IID: 627). 
+ 23:59:34 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:35 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 33 damage (IID: 627). 
+ 23:59:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 32 damage (IID: 627). 
+ 23:59:36 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 40 damage (IID: 627). 
+ 23:59:36 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 40 damage (IID: 627). 
+ 23:59:37 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 39 damage (IID: 627). 
+ 23:59:37 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 627). 
+ 23:59:38 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:59:39 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 38 damage (IID: 627). 
+ 23:59:39 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 32 damage (IID: 627). 
+ 23:59:40 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 35 damage (IID: 627). 
+ 23:59:40 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 627). 
+ 23:59:41 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 13 damage (IID: 627). 
+ 23:59:42 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 627). 
+ 23:59:42 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 71 damage (IID: 627). 
+ 23:59:43 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:44 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 66 damage (IID: 627). 
+ 23:59:44 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:45 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 70 damage (IID: 627). 
+ 23:59:45 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 627). 
+ 23:59:46 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:47 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 31 damage (IID: 627). 
+ 23:59:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 38 damage (IID: 627). 
+ 23:59:48 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 42 damage (IID: 627). 
+ 23:59:48 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 39 damage (IID: 627). 
+ 23:59:49 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 40 damage (IID: 627). 
+ 23:59:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 46 damage (IID: 627). 
+ 23:59:50 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 37 damage (IID: 627). 
+ 23:59:50 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 56 damage (IID: 627). 
+ 23:59:51 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 27 damage (IID: 627). 
+ 23:59:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 627). 
+ 23:59:52 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 26 damage (IID: 627). 
+ 23:59:52 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 627). 
+ 23:59:53 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 23 damage (IID: 627). 
+ 23:59:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 58 damage (IID: 627). 
+ 23:59:54 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 24 damage (IID: 627). 
+ 23:59:55 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 627). 
+ 23:59:55 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:56 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 75 damage (IID: 627). 
+ 23:59:56 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:57 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 61 damage (IID: 627). 
+ 23:59:57 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:58 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 64 damage (IID: 627). 
+ 23:59:58 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 17 damage (IID: 627). 
+ 23:59:59 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 36 damage (IID: 627). 
+ 23:59:59 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 39 damage (IID: 627). 
+ 

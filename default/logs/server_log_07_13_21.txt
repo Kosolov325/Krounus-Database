@@ -1,0 +1,1492 @@
+00:00:00 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 37 damage (IID: 627). 
+ 00:00:00 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 48 damage (IID: 627). 
+ 00:00:21 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 85 damage (IID: 894). 
+ 00:00:23 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 100 damage (IID: 894). 
+ 00:00:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 48 damage (IID: 894). 
+ 00:00:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 51 damage (IID: 894). 
+ 00:00:26 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 52 damage (IID: 894). 
+ 00:00:27 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 82 damage (IID: 894). 
+ 00:00:28 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:29 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:30 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 51 damage (IID: 894). 
+ 00:00:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 894). 
+ 00:00:32 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 51 damage (IID: 894). 
+ 00:00:33 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 55 damage (IID: 894). 
+ 00:00:34 - MasterSmith_Romario_Norway looked into a cart (IID: 2747). 
+ 00:00:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 54 damage (IID: 894). 
+ 00:00:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 53 damage (IID: 894). 
+ 00:00:37 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:38 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:39 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:40 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:42 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 59 damage (IID: 894). 
+ 00:00:44 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:48 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:50 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:52 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:53 - MasterSmith_Romario_Norway picked up One Handed Axe(IID: 4011) from the ground. 
+ 00:00:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:55 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:58 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:00:59 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:01:00 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:01:02 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 894). 
+ 00:01:10 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 57 damage (IID: 625). 
+ 00:01:11 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:12 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:13 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:14 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:15 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:15 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 61 damage (IID: 625). 
+ 00:01:16 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 32 damage (IID: 625). 
+ 00:01:16 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 41 damage (IID: 625). 
+ 00:01:17 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 38 damage (IID: 625). 
+ 00:01:17 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 625). 
+ 00:01:19 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:21 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 625). 
+ 00:01:24 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 90 damage (IID: 625). 
+ 00:01:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 72 damage (IID: 625). 
+ 00:01:26 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:27 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:28 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:29 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:32 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:33 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:36 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:37 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:38 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 74 damage (IID: 625). 
+ 00:01:39 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:40 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:42 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:43 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:45 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:48 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:50 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:01:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 625). 
+ 00:02:03 - MasterSmith_Romario_Norway dropped Spiked Mace(IID: 4093) on the ground. 
+ 00:02:04 - MasterSmith_Romario_Norway dropped Spiked Mace(IID: 3960) on the ground. 
+ 00:02:08 - MasterSmith_Romario_Norway picked up Vielle(IID: 3978) from the ground. 
+ 00:02:09 - MasterSmith_Romario_Norway picked up Vielle(IID: 4011) from the ground. 
+ 00:02:17 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 51 damage (IID: 2361). 
+ 00:02:18 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:19 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:20 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 48 damage (IID: 2361). 
+ 00:02:21 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:23 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:24 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:25 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:25 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 79 damage (IID: 2361). 
+ 00:02:26 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 21 damage (IID: 2361). 
+ 00:02:26 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 85 damage (IID: 2361). 
+ 00:02:27 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:28 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 44 damage (IID: 2361). 
+ 00:02:29 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:30 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:31 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:31 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 49 damage (IID: 2361). 
+ 00:02:32 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 38 damage (IID: 2361). 
+ 00:02:33 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:34 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 2361). 
+ 00:02:34 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:35 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 83 damage (IID: 2361). 
+ 00:02:35 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:36 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 39 damage (IID: 2361). 
+ 00:02:36 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 41 damage (IID: 2361). 
+ 00:02:37 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 41 damage (IID: 2361). 
+ 00:02:38 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 64 damage (IID: 2361). 
+ 00:02:38 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 28 damage (IID: 2361). 
+ 00:02:39 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:40 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:41 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:41 - Cooking, Repairing or Healing others now gives you payments. 
+ 00:02:42 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:42 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 44 damage (IID: 2361). 
+ 00:02:43 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 41 damage (IID: 2361). 
+ 00:02:44 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 86 damage (IID: 2361). 
+ 00:02:44 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:45 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 41 damage (IID: 2361). 
+ 00:02:46 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 43 damage (IID: 2361). 
+ 00:02:46 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 40 damage (IID: 2361). 
+ 00:02:47 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 63 damage (IID: 2361). 
+ 00:02:48 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 28 damage (IID: 2361). 
+ 00:02:49 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:49 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 62 damage (IID: 2361). 
+ 00:02:50 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 47 damage (IID: 2361). 
+ 00:02:51 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 46 damage (IID: 2361). 
+ 00:02:51 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 60 damage (IID: 2361). 
+ 00:02:52 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 32 damage (IID: 2361). 
+ 00:02:53 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 81 damage (IID: 2361). 
+ 00:02:53 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:54 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 92 damage (IID: 2361). 
+ 00:02:54 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 18 damage (IID: 2361). 
+ 00:02:55 - MasterSmith_Romario_Norway hit door of I yawn on Dogs like you dealing 39 damage (IID: 2361). 
+ 00:02:56 - Levy_Megas_Karsington hit door of I yawn on Dogs like you dealing 83 damage (IID: 2361). 
+ 00:03:02 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 85 damage (IID: 1832). 
+ 00:03:04 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 78 damage (IID: 1832). 
+ 00:03:06 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 45 damage (IID: 1303). 
+ 00:03:07 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:08 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:09 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:10 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:11 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 66 damage (IID: 1832). 
+ 00:03:11 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 16 damage (IID: 1303). 
+ 00:03:12 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 76 damage (IID: 1832). 
+ 00:03:13 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 16 damage (IID: 1303). 
+ 00:03:14 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 63 damage (IID: 1832). 
+ 00:03:17 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 41 damage (IID: 1303). 
+ 00:03:18 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:19 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:20 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:21 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:22 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:23 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 85 damage (IID: 1832). 
+ 00:03:23 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 22 damage (IID: 1303). 
+ 00:03:24 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 66 damage (IID: 1832). 
+ 00:03:24 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:03:25 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 42 damage (IID: 1303). 
+ 00:03:26 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:03:28 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:03:29 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 81 damage (IID: 1303). 
+ 00:03:30 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 38 damage (IID: 1832). 
+ 00:03:30 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 51 damage (IID: 1303). 
+ 00:03:32 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 74 damage (IID: 1303). 
+ 00:03:34 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 81 damage (IID: 1303). 
+ 00:03:35 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 66 damage (IID: 1303). 
+ 00:03:36 - MasterSmith_Romario_Norway withdrew 1249 gold from chest belonging to I yawn on Dogs like you. 
+ 00:03:36 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 74 damage (IID: 1303). 
+ 00:03:37 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 74 damage (IID: 1303). 
+ 00:03:42 - MasterSmith_Romario_Norway spawned pouch containing 650 gold (IID: 4011). 
+ 00:03:43 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 85 damage (IID: 1303). 
+ 00:03:48 - Levy_Megas_Karsington picked up Money Bag(IID: 4011) from the ground. 
+ 00:03:49 - Levy_Megas_Karsington used pouch containing 650 gold. 
+ 00:03:52 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:03:53 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:03:54 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 93 damage (IID: 1303). 
+ 00:03:54 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:03:55 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 69 damage (IID: 1303). 
+ 00:03:55 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:03:56 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 49 damage (IID: 1303). 
+ 00:03:56 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:03:57 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:03:58 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 44 damage (IID: 1303). 
+ 00:03:59 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 45 damage (IID: 1303). 
+ 00:03:59 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 43 damage (IID: 1303). 
+ 00:04:00 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 44 damage (IID: 1303). 
+ 00:04:00 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:04:01 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 43 damage (IID: 1303). 
+ 00:04:01 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 51 damage (IID: 1303). 
+ 00:04:02 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 40 damage (IID: 1303). 
+ 00:04:03 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 46 damage (IID: 1303). 
+ 00:04:03 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 48 damage (IID: 1303). 
+ 00:04:04 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 43 damage (IID: 1303). 
+ 00:04:04 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 50 damage (IID: 1303). 
+ 00:04:05 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 41 damage (IID: 1303). 
+ 00:04:06 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 54 damage (IID: 1303). 
+ 00:04:06 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 39 damage (IID: 1303). 
+ 00:04:07 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 54 damage (IID: 1303). 
+ 00:04:07 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 35 damage (IID: 1303). 
+ 00:04:08 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 58 damage (IID: 1303). 
+ 00:04:09 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 33 damage (IID: 1303). 
+ 00:04:09 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 61 damage (IID: 1303). 
+ 00:04:10 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 30 damage (IID: 1303). 
+ 00:04:10 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 63 damage (IID: 1303). 
+ 00:04:11 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 26 damage (IID: 1303). 
+ 00:04:11 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 69 damage (IID: 1303). 
+ 00:04:12 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 23 damage (IID: 1303). 
+ 00:04:13 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 71 damage (IID: 1303). 
+ 00:04:13 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:04:14 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 70 damage (IID: 1303). 
+ 00:04:14 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 19 damage (IID: 1303). 
+ 00:04:15 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 73 damage (IID: 1303). 
+ 00:04:15 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:04:16 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 75 damage (IID: 1303). 
+ 00:04:16 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:04:17 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 76 damage (IID: 1303). 
+ 00:04:18 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 18 damage (IID: 1303). 
+ 00:04:19 - MasterSmith_Romario_Norway attacked Levy_Megas_Karsington with One Handed Axe dealing 0 damage. FIDs: 4, 3. 
+ 00:04:19 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 81 damage (IID: 1303). 
+ 00:04:20 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 30 damage (IID: 1303). 
+ 00:04:20 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 69 damage (IID: 1303). 
+ 00:04:21 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 23 damage (IID: 1303). 
+ 00:04:22 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 70 damage (IID: 1303). 
+ 00:04:22 - MasterSmith_Romario_Norway hit chest of I yawn on Dogs like you dealing 21 damage (IID: 1303). 
+ 00:04:23 - Levy_Megas_Karsington hit chest of I yawn on Dogs like you dealing 70 damage (IID: 1303). 
+ 00:04:28 - MasterSmith_Romario_Norway took Two Handed Axe from an inventory of I yawn on Dogs like you (IID: 1303). 
+ 00:05:03 - Levy_Megas_Karsington attacked Levy_Megas_Karsington with fist dealing 16 damage. FIDs: 3, 3. 
+ 00:05:05 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* Cantiga 
+ 00:05:22 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:05:22 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 00:05:40 - MasterSmith_Romario_Norway looked into a cart (IID: 2749). 
+ 00:05:58 - [Levy_Megas_Karsington] lets go ireland 
+ 00:06:05 - [MasterSmith_Romario_Norway] clear 
+ 00:06:07 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:06:11 - [MasterSmith_Romario_Norway] i was 
+ 00:06:16 - [Levy_Megas_Karsington] and the abey? 
+ 00:06:21 - [MasterSmith_Romario_Norway] ye 
+ 00:06:27 - MasterSmith_Romario_Norway dropped Two Handed Axe(IID: 4011) on the ground. 
+ 00:06:28 - MasterSmith_Romario_Norway picked up Two Handed Axe(IID: 4011) from the ground. 
+ 00:06:32 - [Levy_Megas_Karsington] its clear? 
+ 00:06:35 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:06:45 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:06:54 - [MasterSmith_Romario_Norway] was armor in chest 
+ 00:07:02 - [Levy_Megas_Karsington] good armor? 
+ 00:07:02 - MasterSmith_Romario_Norway picked up Spiked Mace(IID: 4093) from the ground. 
+ 00:07:02 - MasterSmith_Romario_Norway picked up Spiked Mace(IID: 3960) from the ground. 
+ 00:07:08 - [MasterSmith_Romario_Norway] no light 
+ 00:07:14 - *FACTION* Archduchy of Karsington [Levy_Megas_Karsington] hmm 
+ 00:07:15 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:07:28 - [Levy_Megas_Karsington] lets go helhein then 
+ 00:07:39 - MasterSmith_Romario_Norway looted a corpse (IID: 4310). 
+ 00:07:41 - MasterSmith_Romario_Norway took Footman Helmet from an inventory (IID: 4310). 
+ 00:07:44 - Fishing now is way more profitable. Catch some fishes and cook them to get paid. 
+ 00:07:47 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:07:53 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:08:14 - [Levy_Megas_Karsington] where are u knoe? 
+ 00:08:20 - [Levy_Megas_Karsington] now 
+ 00:08:22 - [MasterSmith_Romario_Norway] TW 
+ 00:08:27 - [MasterSmith_Romario_Norway] craft 
+ 00:08:37 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* Up in the High Hammer 
+ 00:08:40 - [Levy_Megas_Karsington] come helhein 
+ 00:08:45 - [MasterSmith_Romario_Norway] no 
+ 00:08:50 - [Levy_Megas_Karsington] dok 
+ 00:08:54 - [Levy_Megas_Karsington] ok 
+ 00:09:14 - [MasterSmith_Romario_Norway] in your castle need craft? 
+ 00:09:25 - [MasterSmith_Romario_Norway] armor, weapon? 
+ 00:09:29 - *FACTION* Archduchy of Karsington [Levy_Megas_Karsington] i dont think so 
+ 00:09:31 - Archer_Doomer_Karsington has joined the game with ID: 5252829 
+ 00:09:35 - [Levy_Megas_Karsington] i dont think so 
+ 00:09:40 - [MasterSmith_Romario_Norway] ok 
+ 00:09:43 - Archer_Doomer_Karsington joined Archduchy of Karsington (3). 
+ 00:09:43 - Archer_Doomer_Karsington had these items: H:-1, B:-1, G:-1, F:-1, HO:0, 1:369, 2:-1, 3:-1, 4:-1 
+ 00:09:45 - [MasterSmith_Romario_Norway] i smoke 
+ 00:09:54 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 00:09:59 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 77 damage (IID: 2010). 
+ 00:10:00 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 84 damage (IID: 2010). 
+ 00:10:01 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:02 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:04 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 82 damage (IID: 2010). 
+ 00:10:07 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 84 damage (IID: 2010). 
+ 00:10:08 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:10 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:11 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 75 damage (IID: 2010). 
+ 00:10:14 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:15 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:16 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:17 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:19 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 61 damage (IID: 2010). 
+ 00:10:20 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 67 damage (IID: 2010). 
+ 00:10:21 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 60 damage (IID: 2010). 
+ 00:10:21 - Archer_Doomer_Karsington attacked Archer_Doomer_Karsington with fist dealing 486 damage. FIDs: 3, 3. 
+ 00:10:21 -  <img=ico_punch> Archer_Doomer_Karsington 
+ 00:10:21 - Archer_Doomer_Karsington dropped a loot (IID: 3960). 
+ 00:10:21 - Archer_Doomer_Karsington committed suicide. 
+ 00:10:22 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:24 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 82 damage (IID: 2010). 
+ 00:10:25 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 56 damage (IID: 2010). 
+ 00:10:26 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 68 damage (IID: 2010). 
+ 00:10:28 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:30 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 68 damage (IID: 2010). 
+ 00:10:31 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 65 damage (IID: 2010). 
+ 00:10:32 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 63 damage (IID: 2010). 
+ 00:10:33 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:34 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* Cantiga 
+ 00:10:34 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:35 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:36 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:41 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:42 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:44 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:45 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:46 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:48 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:49 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:50 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:51 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:52 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:54 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 74 damage (IID: 2010). 
+ 00:10:55 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:56 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:58 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:10:59 - Archer_Doomer_Karsington looked into a cart (IID: 3395). 
+ 00:10:59 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:11:00 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:11:01 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:11:02 - Levy_Megas_Karsington hit chest of Archduchy of Karsington dealing 81 damage (IID: 2010). 
+ 00:11:06 - Archer_Doomer_Karsington dropped Club(IID: 4093) on the ground. 
+ 00:11:10 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 00:11:11 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:11:17 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 00:11:22 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 00:11:38 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:11:49 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* The Drunken Piper 
+ 00:12:35 - [MasterSmith_Romario_Norway] where are you from, guys? 
+ 00:12:41 - [Levy_Megas_Karsington] portugal 
+ 00:12:43 - [Archer_Doomer_Karsington] poland kurwa 
+ 00:12:46 - You can now duel on the Arena Grounds. Go to the general arena of the map, win duels, and get some payment for entertaining the public! 
+ 00:13:02 - [MasterSmith_Romario_Norway] nice 
+ 00:13:10 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 00:13:18 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 00:13:46 - The player Archer_Doomer_Karsington has disconnect with these items inside item banking:A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 00:13:46 - Archer_Doomer_Karsington has left the game with ID: 5252829 
+ 00:13:46 - Archer_Doomer_Karsington had these items: H:-1, B:-1, G:-1, F:-1, HO:0, 1:-1, 2:-1, 3:-1, 4:-1 
+ 00:13:46 -  <img=ico_headshot> Archer_Doomer_Karsington 
+ 00:13:46 - Archer_Doomer_Karsington dropped a loot (IID: 4011). 
+ 00:15:10 - [Levy_Megas_Karsington] do you know how to drive the boats? 
+ 00:16:28 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 00:16:34 - Levy_Megas_Karsington has mounted a Saddle Horse (AID: 17). 
+ 00:16:58 - [Levy_Megas_Karsington] do you know how to drive the ships? 
+ 00:17:20 - *LOCAL* [Levy_Megas_Karsington] hey 
+ 00:17:32 - *LOCAL* [Levy_Megas_Karsington] man 
+ 00:17:38 - *LOCAL* [MasterSmith_Romario_Norway] ye 
+ 00:17:50 - Hunt wild animals with the huntsman class and get paid. If you also cook the meat, you will come out with even better profits. 
+ 00:17:54 - *LOCAL* [Levy_Megas_Karsington] can u go with me to the island? 
+ 00:18:14 - [MasterSmith_Romario_Norway] one second 
+ 00:18:23 - *LOCAL* [Levy_Megas_Karsington] ok 
+ 00:19:45 - *LOCAL* [MasterSmith_Romario_Norway] There is no silver.Only 10 percet. I was there 
+ 00:19:53 - *LOCAL* [Levy_Megas_Karsington] hmm sad 
+ 00:19:57 - *LOCAL* [MasterSmith_Romario_Norway] ye 
+ 00:20:02 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:20:06 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* L'Homme Arme 
+ 00:20:07 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:20:21 - *LOCAL* [MasterSmith_Romario_Norway] hey 
+ 00:20:28 - *LOCAL* [MasterSmith_Romario_Norway] stay 
+ 00:21:56 - Levy_Megas_Karsington has dismounted a Saddle Horse (AID: 17). 
+ 00:22:54 - Smith weaponry and armors in the local shops and repair structures. Smithing is a very high profitable path for you. 
+ 00:22:57 - The player Levy_Megas_Karsington has disconnect with these items inside item banking:A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 00:22:57 - Levy_Megas_Karsington has left the game with ID: 5251546 
+ 00:22:57 - Levy_Megas_Karsington had these items: H:126, B:295, G:351, F:362, HO:0, 1:-1, 2:-1, 3:-1, 4:-1 
+ 00:22:57 -  <img=ico_headshot> Levy_Megas_Karsington 
+ 00:22:57 - Levy_Megas_Karsington dropped a loot (IID: 4093). 
+ 00:23:03 - *ANIMATION* [MasterSmith_Romario_Norway] *Vielle* Cantiga 
+ 00:24:35 - MasterSmith_Romario_Norway has dismounted a Saddle Horse (AID: 90). 
+ 00:27:20 - MasterSmith_Romario_Norway has mounted a Saddle Horse (AID: 90). 
+ 00:27:21 - The player MasterSmith_Romario_Norway has disconnect with these items inside item banking:A131A298A347A364A503A429A0A0A0A0A0A422A0A0A0A0A0A0A0A0A 
+ 00:27:21 - MasterSmith_Romario_Norway has left the game with ID: 3368111 
+ 00:27:21 - MasterSmith_Romario_Norway had these items: H:26, B:200, G:328, F:636, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 00:27:21 -  <img=ico_headshot> MasterSmith_Romario_Norway 
+ 00:27:21 - MasterSmith_Romario_Norway dropped a loot (IID: 4093). 
+ 00:38:28 - Krzysztof_Krawczyk has joined the game with ID: 3793319 
+ 00:38:37 - Krzysztof_Krawczyk joined Gang Prezesów (6). 
+ 00:38:38 - Krzysztof_Krawczyk had these items: H:-1, B:142, G:316, F:-1, HO:0, 1:574, 2:-1, 3:-1, 4:-1 
+ 00:38:54 - Keep your important items safe in the Item Banking. Go to the main bank of the map, usually close to the commoner spawn to access it. 
+ 00:41:29 - JuliamTuwim has joined the game with ID: 3915010 
+ 00:41:36 - JuliamTuwim joined Gang Prezesów (6). 
+ 00:41:36 - JuliamTuwim had these items: H:-1, B:-1, G:-1, F:-1, HO:522, 1:450, 2:-1, 3:-1, 4:-1 
+ 00:42:57 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 00:43:56 - Commoner drop 10% of their money pouch, while in faction members drop half of their money. Consider that when you go out serfing. 
+ 00:44:10 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:44:48 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:45:18 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:46:39 - JuliamTuwim hit a ship (IID: 2535). 
+ 00:46:40 - JuliamTuwim hit a ship (IID: 2535). 
+ 00:47:00 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:47:08 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:47:42 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:48:38 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:48:39 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 17). 
+ 00:48:55 - Krzysztof_Krawczyk attacked JuliamTuwim with Woodcutter's Axe dealing 26 damage. FIDs: 6, 6. 
+ 00:48:58 - Cooking, Repairing or Healing others now gives you payments. 
+ 00:49:10 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:49:11 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 00:50:00 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:50:03 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:50:06 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:50:16 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:51:31 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:51:33 - JuliamTuwim hit a ship (IID: 2221). 
+ 00:51:34 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:53:02 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:53:05 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 17). 
+ 00:53:12 - JuliamTuwim joined Commoners (0). 
+ 00:53:42 - JuliamTuwim joined Archduchy of Karsington (3). 
+ 00:53:48 - JuliamTuwim has mounted a Saddle Horse (AID: 17). 
+ 00:53:52 - JuliamTuwim dropped Iberian Mace(IID: 3978) on the ground. 
+ 00:54:02 - Fishing now is way more profitable. Catch some fishes and cook them to get paid. 
+ 00:54:21 - JuliamTuwim has dismounted a Saddle Horse (AID: 17). 
+ 00:54:26 - Krzysztof_Krawczyk joined Commoners (0). 
+ 00:54:27 - JuliamTuwim has mounted a Saddle Horse (AID: 17). 
+ 00:55:15 - Krzysztof_Krawczyk joined Archduchy of Karsington (3). 
+ 00:55:26 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 92). 
+ 00:55:36 - JuliamTuwim has dismounted a Saddle Horse (AID: 17). 
+ 00:55:42 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 92). 
+ 00:55:45 - JuliamTuwim picked up Wheat Sack(IID: 4011) from the ground. 
+ 00:56:10 - JuliamTuwim dropped Wheat Sack(IID: 4011) on the ground. 
+ 00:56:14 - JuliamTuwim picked up Wheat Sack(IID: 3960) from the ground. 
+ 00:56:15 - Krzysztof_Krawczyk picked up Wheat Sack(IID: 4011) from the ground. 
+ 00:56:19 - JuliamTuwim picked up Bucket(IID: 4011) from the ground. 
+ 00:56:31 - JuliamTuwim dropped Water Bucket(IID: 4011) on the ground. 
+ 00:56:34 - Krzysztof_Krawczyk picked up Water Bucket(IID: 4011) from the ground. 
+ 00:56:36 - JuliamTuwim picked up Bucket(IID: 4011) from the ground. 
+ 00:56:38 - JuliamTuwim picked up Bucket(IID: 4011) from the ground. 
+ 00:56:44 - Krzysztof_Krawczyk attacked JuliamTuwim with Water Bucket dealing 0 damage. FIDs: 3, 3. 
+ 00:56:57 - Krzysztof_Krawczyk dropped Bucket(IID: 4011) on the ground. 
+ 00:57:01 - JuliamTuwim dropped Water Bucket(IID: 3960) on the ground. 
+ 00:57:02 - JuliamTuwim picked up Bucket(IID: 4011) from the ground. 
+ 00:57:02 - Krzysztof_Krawczyk picked up Water Bucket(IID: 3960) from the ground. 
+ 00:57:10 - JuliamTuwim dropped Water Bucket(IID: 3960) on the ground. 
+ 00:57:10 - Krzysztof_Krawczyk dropped Bucket(IID: 4011) on the ground. 
+ 00:57:11 - JuliamTuwim picked up Water Bucket(IID: 3960) from the ground. 
+ 00:57:12 - JuliamTuwim dropped Water Bucket(IID: 3960) on the ground. 
+ 00:57:13 - JuliamTuwim picked up Bucket(IID: 4011) from the ground. 
+ 00:57:15 - Krzysztof_Krawczyk picked up Water Bucket(IID: 3960) from the ground. 
+ 00:57:23 - Krzysztof_Krawczyk dropped Bucket(IID: 3960) on the ground. 
+ 00:57:35 - Krzysztof_Krawczyk attached a cart to himself (IID: 3357) (x:19860, y:69444, z:66). 
+ 00:57:59 - Krzysztof_Krawczyk detached a cart from himself (IID: 3357) (x:19368, y:69189, z:0). 
+ 00:58:28 - JuliamTuwim dropped a loot (IID: 4011). 
+ 00:58:28 - JuliamTuwim looted a corpse (IID: 4011). 
+ 00:58:54 - JuliamTuwim picked up Bucket(IID: 3960) from the ground. 
+ 00:59:04 - You can now duel on the Arena Grounds. Go to the general arena of the map, win duels, and get some payment for entertaining the public! 
+ 00:59:13 - JuliamTuwim has mounted a Saddle Horse (AID: 92). 
+ 00:59:15 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 00:59:46 - JuliamTuwim has dismounted a Saddle Horse (AID: 92). 
+ 00:59:52 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 17). 
+ 01:00:02 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:00:06 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:00:34 - JuliamTuwim attached a cart to his horse (IID: 2720) (x:15843, y:74246, z:147). 
+ 01:00:43 - Krzysztof_Krawczyk attached a cart to his horse (IID: 649) (x:15969, y:74243, z:155). 
+ 01:00:47 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:00:50 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:00:57 - JuliamTuwim picked up Woodcutter's Axe(IID: 3960) from the ground. 
+ 01:01:04 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:01:34 - Krzysztof_Krawczyk picked up Branch(IID: 4238) from the ground. 
+ 01:01:38 - Krzysztof_Krawczyk dropped Branch(IID: 3961) on the ground. 
+ 01:01:59 - JuliamTuwim dropped Woodcutter's Axe(IID: 4034) on the ground. 
+ 01:02:00 - JuliamTuwim picked up Wood Block(IID: 3999) from the ground. 
+ 01:02:01 - JuliamTuwim picked up Branch(IID: 4194) from the ground. 
+ 01:02:01 - JuliamTuwim picked up Branch(IID: 3913) from the ground. 
+ 01:02:02 - JuliamTuwim picked up Wood Block(IID: 4166) from the ground. 
+ 01:02:02 - Krzysztof_Krawczyk picked up Wood Block(IID: 4238) from the ground. 
+ 01:02:02 - JuliamTuwim dropped Wood Block(IID: 4238) on the ground. 
+ 01:02:02 - JuliamTuwim picked up Branch(IID: 4143) from the ground. 
+ 01:02:02 - Krzysztof_Krawczyk picked up Branch(IID: 4011) from the ground. 
+ 01:02:02 - Krzysztof_Krawczyk picked up Wood Block(IID: 4272) from the ground. 
+ 01:02:02 - Krzysztof_Krawczyk dropped Wood Block(IID: 4272) on the ground. 
+ 01:02:02 - Krzysztof_Krawczyk picked up Branch(IID: 3961) from the ground. 
+ 01:02:03 - Krzysztof_Krawczyk dropped Branch(IID: 3961) on the ground. 
+ 01:02:03 - Krzysztof_Krawczyk picked up Wood Block(IID: 4188) from the ground. 
+ 01:02:03 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:02:04 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:04 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:04 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:04 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:06 - JuliamTuwim picked up Wood Block(IID: 4238) from the ground. 
+ 01:02:06 - JuliamTuwim picked up Branch(IID: 3960) from the ground. 
+ 01:02:07 - JuliamTuwim picked up Wood Block(IID: 3929) from the ground. 
+ 01:02:07 - JuliamTuwim picked up Wood Block(IID: 4107) from the ground. 
+ 01:02:09 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:02:09 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:10 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:10 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:10 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:11 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:02:11 - JuliamTuwim picked up Wood Block(IID: 4272) from the ground. 
+ 01:02:12 - JuliamTuwim picked up Branch(IID: 4093) from the ground. 
+ 01:02:12 - JuliamTuwim picked up Wood Block(IID: 4095) from the ground. 
+ 01:02:12 - JuliamTuwim picked up Branch(IID: 4203) from the ground. 
+ 01:02:12 - JuliamTuwim dropped Branch(IID: 4203) on the ground. 
+ 01:02:12 - JuliamTuwim picked up Wood Block(IID: 4140) from the ground. 
+ 01:02:13 - JuliamTuwim dropped Wood Block(IID: 4140) on the ground. 
+ 01:02:13 - JuliamTuwim picked up Branch(IID: 3961) from the ground. 
+ 01:02:13 - JuliamTuwim dropped Branch(IID: 3961) on the ground. 
+ 01:02:13 - JuliamTuwim picked up Branch(IID: 4190) from the ground. 
+ 01:02:14 - Krzysztof_Krawczyk put Woodcutter's Axe into an inventory (IID: 649). 
+ 01:02:14 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:02:14 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:02:15 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:02:15 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:02:15 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:15 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:15 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:16 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:17 - JuliamTuwim picked up Branch(IID: 3961) from the ground. 
+ 01:02:17 - JuliamTuwim picked up Wood Block(IID: 4140) from the ground. 
+ 01:02:17 - JuliamTuwim picked up Branch(IID: 4203) from the ground. 
+ 01:02:19 - JuliamTuwim picked up Wood Block(IID: 4288) from the ground. 
+ 01:02:19 - Krzysztof_Krawczyk picked up Branch(IID: 3980) from the ground. 
+ 01:02:20 - Krzysztof_Krawczyk picked up Branch(IID: 4119) from the ground. 
+ 01:02:21 - Krzysztof_Krawczyk picked up Branch(IID: 4037) from the ground. 
+ 01:02:21 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:02:22 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:22 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:22 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:02:22 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:24 - JuliamTuwim picked up Wood Block(IID: 4137) from the ground. 
+ 01:02:24 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:02:25 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:02:25 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:02:25 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:02:26 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:02:26 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:02:29 - JuliamTuwim picked up Woodcutter's Axe(IID: 4034) from the ground. 
+ 01:02:29 - Krzysztof_Krawczyk picked up Branch(IID: 4368) from the ground. 
+ 01:02:31 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:02:32 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:02:33 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:02:35 - Krzysztof_Krawczyk took Woodcutter's Axe from an inventory (IID: 649). 
+ 01:02:39 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:03:01 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:03:13 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:03:29 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:03:45 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:03:53 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:04:02 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:04:06 - Hunt wild animals with the huntsman class and get paid. If you also cook the meat, you will come out with even better profits. 
+ 01:05:07 - JuliamTuwim dropped Woodcutter's Axe(IID: 4243) on the ground. 
+ 01:05:08 - JuliamTuwim picked up Wood Block(IID: 4194) from the ground. 
+ 01:05:09 - JuliamTuwim picked up Wood Block(IID: 4282) from the ground. 
+ 01:05:10 - JuliamTuwim picked up Wood Block(IID: 4270) from the ground. 
+ 01:05:10 - JuliamTuwim picked up Wood Block(IID: 4235) from the ground. 
+ 01:05:10 - JuliamTuwim dropped Wood Block(IID: 4235) on the ground. 
+ 01:05:10 - JuliamTuwim picked up Wood Block(IID: 3999) from the ground. 
+ 01:05:10 - JuliamTuwim dropped Wood Block(IID: 3999) on the ground. 
+ 01:05:10 - JuliamTuwim picked up Wood Block(IID: 4098) from the ground. 
+ 01:05:14 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:15 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:15 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:15 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:16 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:17 - JuliamTuwim picked up Wood Block(IID: 3882) from the ground. 
+ 01:05:17 - JuliamTuwim picked up Wood Block(IID: 4235) from the ground. 
+ 01:05:18 - JuliamTuwim picked up Wood Block(IID: 3999) from the ground. 
+ 01:05:18 - JuliamTuwim picked up Wood Block(IID: 4266) from the ground. 
+ 01:05:18 - JuliamTuwim dropped Wood Block(IID: 4266) on the ground. 
+ 01:05:18 - JuliamTuwim picked up Wood Block(IID: 3963) from the ground. 
+ 01:05:19 - JuliamTuwim dropped Wood Block(IID: 3963) on the ground. 
+ 01:05:19 - JuliamTuwim picked up Branch(IID: 3980) from the ground. 
+ 01:05:19 - JuliamTuwim dropped Branch(IID: 3980) on the ground. 
+ 01:05:19 - JuliamTuwim picked up Branch(IID: 4140) from the ground. 
+ 01:05:21 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:22 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:22 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:22 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:22 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:23 - JuliamTuwim picked up Branch(IID: 4137) from the ground. 
+ 01:05:24 - JuliamTuwim picked up Branch(IID: 3978) from the ground. 
+ 01:05:25 - JuliamTuwim picked up Branch(IID: 4119) from the ground. 
+ 01:05:25 - JuliamTuwim picked up Branch(IID: 4203) from the ground. 
+ 01:05:26 - JuliamTuwim dropped Branch(IID: 4203) on the ground. 
+ 01:05:26 - JuliamTuwim picked up Branch(IID: 4288) from the ground. 
+ 01:05:28 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:29 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:29 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:29 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:29 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:30 - JuliamTuwim picked up Branch(IID: 4095) from the ground. 
+ 01:05:31 - JuliamTuwim picked up Branch(IID: 4203) from the ground. 
+ 01:05:31 - JuliamTuwim picked up Branch(IID: 4034) from the ground. 
+ 01:05:31 - JuliamTuwim picked up Branch(IID: 4368) from the ground. 
+ 01:05:31 - JuliamTuwim dropped Branch(IID: 4368) on the ground. 
+ 01:05:31 - JuliamTuwim picked up Branch(IID: 4037) from the ground. 
+ 01:05:34 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:34 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:34 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:34 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:35 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:36 - JuliamTuwim picked up Branch(IID: 4368) from the ground. 
+ 01:05:36 - JuliamTuwim picked up Branch(IID: 4188) from the ground. 
+ 01:05:36 - JuliamTuwim picked up Wood Block(IID: 4143) from the ground. 
+ 01:05:37 - JuliamTuwim picked up Branch(IID: 3961) from the ground. 
+ 01:05:39 - Krzysztof_Krawczyk picked up Wood Block(IID: 4010) from the ground. 
+ 01:05:40 - Krzysztof_Krawczyk picked up Wood Block(IID: 4157) from the ground. 
+ 01:05:40 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:41 - Krzysztof_Krawczyk picked up Wood Block(IID: 4137) from the ground. 
+ 01:05:41 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:41 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:41 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:41 - Krzysztof_Krawczyk dropped Wood Block(IID: 4137) on the ground. 
+ 01:05:41 - Krzysztof_Krawczyk picked up Wood Block(IID: 4226) from the ground. 
+ 01:05:41 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:42 - Krzysztof_Krawczyk dropped Wood Block(IID: 4226) on the ground. 
+ 01:05:42 - Krzysztof_Krawczyk picked up Wood Block(IID: 4037) from the ground. 
+ 01:05:43 - JuliamTuwim picked up Branch(IID: 3980) from the ground. 
+ 01:05:43 - JuliamTuwim picked up Wood Block(IID: 3963) from the ground. 
+ 01:05:44 - JuliamTuwim picked up Wood Block(IID: 4266) from the ground. 
+ 01:05:46 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:47 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:47 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:05:47 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:48 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:05:48 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:05:48 - JuliamTuwim put Branch into an inventory (IID: 2720). 
+ 01:05:48 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:05:51 - Krzysztof_Krawczyk picked up Wood Block(IID: 4226) from the ground. 
+ 01:05:51 - JuliamTuwim picked up Wood Block(IID: 3930) from the ground. 
+ 01:05:51 - Krzysztof_Krawczyk picked up Wood Block(IID: 4140) from the ground. 
+ 01:05:52 - Krzysztof_Krawczyk picked up Wood Block(IID: 4137) from the ground. 
+ 01:05:55 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:05:55 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:05:57 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:05:58 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:05:58 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:05:59 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:00 - JuliamTuwim picked up Woodcutter's Axe(IID: 4243) from the ground. 
+ 01:06:01 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:06:02 - Krzysztof_Krawczyk picked up Wood Block(IID: 4288) from the ground. 
+ 01:06:03 - Krzysztof_Krawczyk picked up Wood Block(IID: 4270) from the ground. 
+ 01:06:10 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:06:10 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:06:11 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:11 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:13 - JuliamTuwim picked up Flax Bundle(IID: 4270) from the ground. 
+ 01:06:15 - JuliamTuwim dropped Flax Bundle(IID: 4270) on the ground. 
+ 01:06:16 - Krzysztof_Krawczyk picked up Wood Block(IID: 4282) from the ground. 
+ 01:06:18 - Krzysztof_Krawczyk picked up Wood Block(IID: 4098) from the ground. 
+ 01:06:18 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:06:21 - Krzysztof_Krawczyk picked up Branch(IID: 4272) from the ground. 
+ 01:06:26 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:06:28 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:28 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:28 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:31 - Krzysztof_Krawczyk picked up Wood Block(IID: 4005) from the ground. 
+ 01:06:31 - Krzysztof_Krawczyk picked up Branch(IID: 4323) from the ground. 
+ 01:06:32 - Krzysztof_Krawczyk picked up Branch(IID: 4011) from the ground. 
+ 01:06:37 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:06:38 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:38 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:39 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:06:40 - Krzysztof_Krawczyk picked up Branch(IID: 4093) from the ground. 
+ 01:06:41 - Krzysztof_Krawczyk picked up Branch(IID: 3913) from the ground. 
+ 01:06:41 - Krzysztof_Krawczyk picked up Branch(IID: 3929) from the ground. 
+ 01:06:42 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:06:46 - JuliamTuwim dropped Woodcutter's Axe(IID: 3929) on the ground. 
+ 01:06:46 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:06:47 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:47 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:48 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:06:48 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:06:49 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:06:49 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:06:49 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:06:50 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:06:52 - Krzysztof_Krawczyk picked up Branch(IID: 4214) from the ground. 
+ 01:06:52 - Krzysztof_Krawczyk picked up Branch(IID: 4107) from the ground. 
+ 01:06:53 - Krzysztof_Krawczyk picked up Branch(IID: 4166) from the ground. 
+ 01:06:53 - Krzysztof_Krawczyk dropped Branch(IID: 4166) on the ground. 
+ 01:06:53 - Krzysztof_Krawczyk picked up Branch(IID: 4167) from the ground. 
+ 01:06:55 - Krzysztof_Krawczyk dropped Branch(IID: 4167) on the ground. 
+ 01:06:55 - Krzysztof_Krawczyk picked up Branch(IID: 4190) from the ground. 
+ 01:06:58 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:06:59 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:06:59 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:00 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:00 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:01 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:07:02 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:02 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:03 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:06 - Krzysztof_Krawczyk picked up Branch(IID: 4166) from the ground. 
+ 01:07:06 - Krzysztof_Krawczyk picked up Branch(IID: 4167) from the ground. 
+ 01:07:07 - Krzysztof_Krawczyk picked up Branch(IID: 3960) from the ground. 
+ 01:07:08 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:07:09 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:07:09 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:07:09 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:07:09 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:07:11 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:07:12 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:12 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:13 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:13 - JuliamTuwim dropped Wood Block(IID: 4167) on the ground. 
+ 01:07:13 - JuliamTuwim picked up Branch(IID: 3960) from the ground. 
+ 01:07:15 - Krzysztof_Krawczyk picked up Branch(IID: 4238) from the ground. 
+ 01:07:16 - JuliamTuwim picked up Wood Block(IID: 4167) from the ground. 
+ 01:07:19 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:07:20 - Krzysztof_Krawczyk put Branch into an inventory (IID: 649). 
+ 01:07:24 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:07:28 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:07:29 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:07:29 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:07:30 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:07:30 - JuliamTuwim put Wood Block into an inventory (IID: 2720). 
+ 01:07:31 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:31 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:32 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:32 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:40 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:07:41 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:41 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:42 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:42 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:50 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:07:51 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:51 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:51 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:52 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:07:55 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:08:00 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:08:00 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:08:01 - JuliamTuwim took Branch from an inventory (IID: 2720). 
+ 01:08:02 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:08:03 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:08:03 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:08:06 - JuliamTuwim picked up Woodcutter's Axe(IID: 3929) from the ground. 
+ 01:08:09 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:08:10 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:08:10 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:08:11 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:08:11 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:08:11 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:08:12 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:12 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:13 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:17 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:08:17 - Krzysztof_Krawczyk put Woodcutter's Axe into an inventory (IID: 649). 
+ 01:08:30 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:08:35 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:08:36 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:08:38 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:39 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:39 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:40 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:44 - JuliamTuwim dropped Woodcutter's Axe(IID: 3929) on the ground. 
+ 01:08:46 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:08:47 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:47 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:47 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:47 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:51 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:08:53 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:53 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:54 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:54 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:08:55 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:08:57 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:57 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:58 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:08:58 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:05 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:09:06 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:06 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:06 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:07 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:08 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:09:08 - Smith weaponry and armors in the local shops and repair structures. Smithing is a very high profitable path for you. 
+ 01:09:10 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:10 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:10 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:11 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:15 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:09:16 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:16 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:16 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:17 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:21 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:09:23 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:24 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:24 - Krzysztof_Krawczyk took Branch from an inventory (IID: 649). 
+ 01:09:28 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:09:29 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:29 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:30 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:30 - JuliamTuwim took Wood Block from an inventory (IID: 2720). 
+ 01:09:34 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:09:38 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:09:38 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:09:38 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:09:38 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:09:38 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:09:39 - JuliamTuwim picked up Woodcutter's Axe(IID: 3929) from the ground. 
+ 01:09:44 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:09:49 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:10:02 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:10:13 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:10:25 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:10:27 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:27 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:28 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:28 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:37 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:10:40 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:10:42 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:42 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:42 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:43 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:54 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:10:55 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:10:58 - Krzysztof_Krawczyk took Woodcutter's Axe from an inventory (IID: 649). 
+ 01:10:59 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:10:59 - Krzysztof_Krawczyk put Woodcutter's Axe into an inventory (IID: 649). 
+ 01:11:00 - Krzysztof_Krawczyk put Wood Block into an inventory (IID: 649). 
+ 01:11:01 - Krzysztof_Krawczyk took Woodcutter's Axe from an inventory (IID: 649). 
+ 01:11:01 - Krzysztof_Krawczyk took Wood Block from an inventory (IID: 649). 
+ 01:11:07 - JuliamTuwim picked up Scythe(IID: 3929) from the ground. 
+ 01:11:12 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:11:37 - JuliamTuwim dropped Scythe(IID: 3913) on the ground. 
+ 01:11:38 - JuliamTuwim picked up Wheat Sheaf(IID: 3929) from the ground. 
+ 01:11:38 - JuliamTuwim picked up Wheat Sheaf(IID: 4111) from the ground. 
+ 01:11:39 - JuliamTuwim picked up Wheat Sheaf(IID: 4167) from the ground. 
+ 01:11:45 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:11:55 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4214) from the ground. 
+ 01:11:55 - JuliamTuwim picked up Wheat Sheaf(IID: 4107) from the ground. 
+ 01:11:56 - JuliamTuwim picked up Wheat Sheaf(IID: 4190) from the ground. 
+ 01:11:58 - Krzysztof_Krawczyk dropped Wheat Sheaf(IID: 4190) on the ground. 
+ 01:11:59 - JuliamTuwim picked up Wheat Sheaf(IID: 3960) from the ground. 
+ 01:12:01 - JuliamTuwim dropped a loot (IID: 3960). 
+ 01:12:01 - JuliamTuwim looted a corpse (IID: 3960). 
+ 01:12:08 - Krzysztof_Krawczyk picked up Scythe(IID: 3913) from the ground. 
+ 01:12:24 - JuliamTuwim picked up Wheat Sheaf(IID: 4190) from the ground. 
+ 01:12:26 - JuliamTuwim picked up Wheat Sheaf(IID: 4238) from the ground. 
+ 01:12:26 - JuliamTuwim picked up Wheat Sheaf(IID: 4166) from the ground. 
+ 01:12:40 - JuliamTuwim picked up Flour Sack(IID: 3929) from the ground. 
+ 01:12:40 - JuliamTuwim picked up Flour Sack(IID: 3913) from the ground. 
+ 01:12:40 - JuliamTuwim picked up Flour Sack(IID: 4167) from the ground. 
+ 01:12:47 - Krzysztof_Krawczyk dropped Scythe(IID: 3913) on the ground. 
+ 01:12:49 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4107) from the ground. 
+ 01:12:49 - JuliamTuwim picked up Scythe(IID: 3913) from the ground. 
+ 01:12:50 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4190) from the ground. 
+ 01:12:50 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4214) from the ground. 
+ 01:12:51 - JuliamTuwim dropped Scythe(IID: 4214) on the ground. 
+ 01:12:51 - JuliamTuwim picked up Scythe(IID: 3960) from the ground. 
+ 01:12:53 - JuliamTuwim dropped Scythe(IID: 3960) on the ground. 
+ 01:12:53 - JuliamTuwim picked up Scythe(IID: 4214) from the ground. 
+ 01:12:54 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:12:54 - JuliamTuwim picked up Scythe(IID: 3960) from the ground. 
+ 01:12:55 - Krzysztof_Krawczyk put Wheat Sheaf into an inventory (IID: 649). 
+ 01:12:55 - Krzysztof_Krawczyk put Wheat Sheaf into an inventory (IID: 649). 
+ 01:12:56 - Krzysztof_Krawczyk put Wheat Sheaf into an inventory (IID: 649). 
+ 01:12:56 - Krzysztof_Krawczyk put Woodcutter's Axe into an inventory (IID: 649). 
+ 01:12:59 - JuliamTuwim looked into a cart (IID: 649). 
+ 01:12:59 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4167) from the ground. 
+ 01:13:00 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4111) from the ground. 
+ 01:13:01 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4238) from the ground. 
+ 01:13:02 - Krzysztof_Krawczyk picked up Wheat Sheaf(IID: 4166) from the ground. 
+ 01:13:13 - JuliamTuwim picked up Bucket(IID: 4166) from the ground. 
+ 01:13:16 - JuliamTuwim picked up Bucket(IID: 4166) from the ground. 
+ 01:13:25 - JuliamTuwim dropped Water Bucket(IID: 4166) on the ground. 
+ 01:13:28 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:13:29 - Krzysztof_Krawczyk took Wheat Sheaf from an inventory (IID: 649). 
+ 01:13:29 - Krzysztof_Krawczyk took Wheat Sheaf from an inventory (IID: 649). 
+ 01:13:30 - Krzysztof_Krawczyk took Wheat Sheaf from an inventory (IID: 649). 
+ 01:13:32 - JuliamTuwim picked up Bucket(IID: 4238) from the ground. 
+ 01:13:46 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:13:46 - JuliamTuwim put Flour Sack into an inventory (IID: 2720). 
+ 01:13:46 - JuliamTuwim put Flour Sack into an inventory (IID: 2720). 
+ 01:13:47 - JuliamTuwim put Water Bucket into an inventory (IID: 2720). 
+ 01:13:47 - JuliamTuwim put Flour Sack into an inventory (IID: 2720). 
+ 01:13:51 - Krzysztof_Krawczyk picked up Flour Sack(IID: 4238) from the ground. 
+ 01:13:56 - JuliamTuwim picked up Water Bucket(IID: 4166) from the ground. 
+ 01:14:00 - JuliamTuwim dropped Water Bucket(IID: 4166) on the ground. 
+ 01:14:01 - JuliamTuwim picked up Water Bucket(IID: 4166) from the ground. 
+ 01:14:02 - JuliamTuwim dropped Water Bucket(IID: 4166) on the ground. 
+ 01:14:04 - Krzysztof_Krawczyk dropped Flour Sack(IID: 4238) on the ground. 
+ 01:14:06 - Krzysztof_Krawczyk picked up Water Bucket(IID: 4166) from the ground. 
+ 01:14:07 - JuliamTuwim picked up Flour Sack(IID: 4238) from the ground. 
+ 01:14:08 - JuliamTuwim dropped Flour Sack(IID: 4238) on the ground. 
+ 01:14:09 - Krzysztof_Krawczyk picked up Flour Sack(IID: 4238) from the ground. 
+ 01:14:10 - Keep your important items safe in the Item Banking. Go to the main bank of the map, usually close to the commoner spawn to access it. 
+ 01:14:23 - JuliamTuwim has mounted a Cart Horse (AID: 93). 
+ 01:14:24 - Krzysztof_Krawczyk picked up Bread(IID: 4167) from the ground. 
+ 01:14:25 - Krzysztof_Krawczyk picked up Bread(IID: 4166) from the ground. 
+ 01:14:26 - Krzysztof_Krawczyk picked up Bread(IID: 4111) from the ground. 
+ 01:14:27 - Krzysztof_Krawczyk dropped Bread(IID: 4111) on the ground. 
+ 01:14:27 - Krzysztof_Krawczyk picked up Bread(IID: 4238) from the ground. 
+ 01:14:27 - Krzysztof_Krawczyk dropped Bread(IID: 4238) on the ground. 
+ 01:14:27 - Krzysztof_Krawczyk picked up Bread(IID: 3960) from the ground. 
+ 01:14:34 - JuliamTuwim has dismounted a Cart Horse (AID: 93). 
+ 01:14:43 - JuliamTuwim picked up Bread(IID: 4238) from the ground. 
+ 01:14:44 - JuliamTuwim picked up Bread(IID: 4111) from the ground. 
+ 01:14:49 - Krzysztof_Krawczyk dropped Bucket(IID: 4111) on the ground. 
+ 01:15:04 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:15:05 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:15:06 - Krzysztof_Krawczyk took Woodcutter's Axe from an inventory (IID: 649). 
+ 01:15:10 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:15:11 - JuliamTuwim took Flour Sack from an inventory (IID: 2720). 
+ 01:15:11 - JuliamTuwim took Water Bucket from an inventory (IID: 2720). 
+ 01:15:11 - JuliamTuwim took Flour Sack from an inventory (IID: 2720). 
+ 01:15:11 - JuliamTuwim took Flour Sack from an inventory (IID: 2720). 
+ 01:15:18 - JuliamTuwim has mounted a Cart Horse (AID: 93). 
+ 01:15:20 - JuliamTuwim has dismounted a Cart Horse (AID: 93). 
+ 01:15:28 - JuliamTuwim dropped Flour Sack(IID: 4238) on the ground. 
+ 01:15:29 - JuliamTuwim dropped Water Bucket(IID: 3960) on the ground. 
+ 01:15:29 - Krzysztof_Krawczyk picked up Bucket(IID: 4111) from the ground. 
+ 01:15:30 - Krzysztof_Krawczyk picked up Flour Sack(IID: 4238) from the ground. 
+ 01:15:31 - JuliamTuwim dropped Flour Sack(IID: 4238) on the ground. 
+ 01:15:31 - JuliamTuwim dropped Flour Sack(IID: 4111) on the ground. 
+ 01:15:37 - Krzysztof_Krawczyk dropped Bucket(IID: 4166) on the ground. 
+ 01:15:38 - JuliamTuwim picked up Bucket(IID: 4166) from the ground. 
+ 01:15:39 - Krzysztof_Krawczyk picked up Water Bucket(IID: 3960) from the ground. 
+ 01:15:49 - Krzysztof_Krawczyk dropped Flour Sack(IID: 3960) on the ground. 
+ 01:15:51 - Krzysztof_Krawczyk picked up Flour Sack(IID: 4111) from the ground. 
+ 01:15:52 - JuliamTuwim picked up Bucket(IID: 4111) from the ground. 
+ 01:15:57 - Krzysztof_Krawczyk picked up Bread(IID: 4214) from the ground. 
+ 01:15:58 - Krzysztof_Krawczyk picked up Bread(IID: 4167) from the ground. 
+ 01:15:59 - Krzysztof_Krawczyk dropped Bread(IID: 4167) on the ground. 
+ 01:15:59 - Krzysztof_Krawczyk picked up Bread(IID: 4166) from the ground. 
+ 01:15:59 - Krzysztof_Krawczyk dropped Bread(IID: 4166) on the ground. 
+ 01:15:59 - Krzysztof_Krawczyk picked up Bread(IID: 4111) from the ground. 
+ 01:16:00 - Krzysztof_Krawczyk dropped Bread(IID: 4111) on the ground. 
+ 01:16:00 - Krzysztof_Krawczyk picked up Bread(IID: 4190) from the ground. 
+ 01:16:03 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:04 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:05 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:06 - Krzysztof_Krawczyk picked up Bread(IID: 4111) from the ground. 
+ 01:16:07 - Krzysztof_Krawczyk picked up Bread(IID: 4166) from the ground. 
+ 01:16:09 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:10 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:10 - JuliamTuwim dropped Water Bucket(IID: 4166) on the ground. 
+ 01:16:10 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:11 - JuliamTuwim dropped Water Bucket(IID: 4111) on the ground. 
+ 01:16:11 - Krzysztof_Krawczyk picked up Bread(IID: 4167) from the ground. 
+ 01:16:13 - JuliamTuwim picked up Flour Sack(IID: 3960) from the ground. 
+ 01:16:13 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:13 - JuliamTuwim picked up Water Bucket(IID: 4166) from the ground. 
+ 01:16:14 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:15 - Krzysztof_Krawczyk dropped Bucket(IID: 4270) on the ground. 
+ 01:16:20 - JuliamTuwim picked up Water Bucket(IID: 4111) from the ground. 
+ 01:16:23 - JuliamTuwim picked up Flour Sack(IID: 4238) from the ground. 
+ 01:16:30 - Krzysztof_Krawczyk picked up Bread(IID: 4214) from the ground. 
+ 01:16:31 - Krzysztof_Krawczyk picked up Bread(IID: 4166) from the ground. 
+ 01:16:32 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:33 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:33 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:34 - Krzysztof_Krawczyk picked up Bread(IID: 4166) from the ground. 
+ 01:16:35 - Krzysztof_Krawczyk picked up Bread(IID: 3913) from the ground. 
+ 01:16:35 - Krzysztof_Krawczyk picked up Bread(IID: 3960) from the ground. 
+ 01:16:37 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:38 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:38 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:38 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:39 - JuliamTuwim picked up Bucket(IID: 4270) from the ground. 
+ 01:16:40 - Krzysztof_Krawczyk picked up Bread(IID: 4111) from the ground. 
+ 01:16:40 - Krzysztof_Krawczyk picked up Bread(IID: 4167) from the ground. 
+ 01:16:41 - Krzysztof_Krawczyk picked up Bread(IID: 4214) from the ground. 
+ 01:16:43 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:44 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:44 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:44 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:45 - Krzysztof_Krawczyk picked up Bread(IID: 4238) from the ground. 
+ 01:16:45 - Krzysztof_Krawczyk picked up Bread(IID: 4190) from the ground. 
+ 01:16:46 - JuliamTuwim picked up Bucket(IID: 4214) from the ground. 
+ 01:16:47 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:16:48 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:48 - Krzysztof_Krawczyk put Bread into an inventory (IID: 649). 
+ 01:16:50 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:16:53 - JuliamTuwim detached a cart from his horse (IID: 2720) (x:18016, y:68779, z:45). 
+ 01:17:06 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:17:10 - JuliamTuwim picked up Mining Pick(IID: 4214) from the ground. 
+ 01:17:11 - JuliamTuwim picked up Mining Pick(IID: 4214) from the ground. 
+ 01:17:13 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:17:15 - JuliamTuwim dropped Bucket(IID: 4214) on the ground. 
+ 01:17:30 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:17:32 - JuliamTuwim dropped Mining Pick(IID: 4190) on the ground. 
+ 01:17:36 - JuliamTuwim has mounted a Cart Horse (AID: 93). 
+ 01:17:37 - Krzysztof_Krawczyk dropped Woodcutter's Axe(IID: 4238) on the ground. 
+ 01:17:44 - JuliamTuwim has dismounted a Cart Horse (AID: 93). 
+ 01:17:51 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:17:51 - Krzysztof_Krawczyk picked up Mining Pick(IID: 4190) from the ground. 
+ 01:17:54 - Krzysztof_Krawczyk attacked Horse (JuliamTuwim) with Mining Pick dealing 30 damage. FIDs: 3, 3. 
+ 01:18:01 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:18:03 - JuliamTuwim attached a cart to his horse (IID: 2720) (x:18302, y:68592, z:48). 
+ 01:18:19 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:18:22 - JuliamTuwim looked into a cart (IID: 649). 
+ 01:18:22 - JuliamTuwim took Bread from an inventory (IID: 649). 
+ 01:18:22 - JuliamTuwim took Bread from an inventory (IID: 649). 
+ 01:18:23 - JuliamTuwim took Bread from an inventory (IID: 649). 
+ 01:18:28 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:18:29 - JuliamTuwim put Bread into an inventory (IID: 2720). 
+ 01:18:29 - JuliamTuwim put Bread into an inventory (IID: 2720). 
+ 01:18:29 - JuliamTuwim put Bread into an inventory (IID: 2720). 
+ 01:18:32 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:19:12 - Commoner drop 10% of their money pouch, while in faction members drop half of their money. Consider that when you go out serfing. 
+ 01:19:52 - JuliamTuwim dropped a loot (IID: 4190). 
+ 01:19:52 - JuliamTuwim looted a corpse (IID: 4190). 
+ 01:19:52 - JuliamTuwim dropped a loot (IID: 4167). 
+ 01:19:53 - JuliamTuwim looted a corpse (IID: 4167). 
+ 01:19:53 - JuliamTuwim looted a corpse (IID: 4167). 
+ 01:19:53 - JuliamTuwim dropped a loot (IID: 4111). 
+ 01:19:53 - JuliamTuwim looted a corpse (IID: 4111). 
+ 01:19:53 - JuliamTuwim dropped a loot (IID: 4270). 
+ 01:19:53 - JuliamTuwim looted a corpse (IID: 4270). 
+ 01:19:54 - JuliamTuwim looted a corpse (IID: 4270). 
+ 01:19:54 - JuliamTuwim dropped a loot (IID: 3960). 
+ 01:19:54 - JuliamTuwim looted a corpse (IID: 3960). 
+ 01:19:54 - JuliamTuwim looted a corpse (IID: 3960). 
+ 01:19:54 - JuliamTuwim dropped a loot (IID: 3913). 
+ 01:19:54 - JuliamTuwim looted a corpse (IID: 3913). 
+ 01:19:55 - JuliamTuwim looted a corpse (IID: 3913). 
+ 01:19:55 - JuliamTuwim dropped a loot (IID: 4166). 
+ 01:19:55 - JuliamTuwim looted a corpse (IID: 4166). 
+ 01:19:55 - JuliamTuwim looted a corpse (IID: 4166). 
+ 01:19:55 - JuliamTuwim dropped a loot (IID: 4107). 
+ 01:19:55 - JuliamTuwim looted a corpse (IID: 4107). 
+ 01:19:56 - JuliamTuwim dropped a loot (IID: 3929). 
+ 01:19:56 - JuliamTuwim looted a corpse (IID: 3929). 
+ 01:19:56 - JuliamTuwim looted a corpse (IID: 3929). 
+ 01:19:56 - JuliamTuwim looted a corpse (IID: 3929). 
+ 01:19:56 - JuliamTuwim dropped a loot (IID: 4093). 
+ 01:19:56 - JuliamTuwim looted a corpse (IID: 4093). 
+ 01:19:57 - JuliamTuwim looted a corpse (IID: 4093). 
+ 01:19:57 - JuliamTuwim dropped a loot (IID: 4011). 
+ 01:19:57 - JuliamTuwim looted a corpse (IID: 4011). 
+ 01:19:57 - JuliamTuwim looted a corpse (IID: 4011). 
+ 01:19:57 - JuliamTuwim looted a corpse (IID: 4011). 
+ 01:19:58 - JuliamTuwim dropped a loot (IID: 4323). 
+ 01:19:58 - JuliamTuwim looted a corpse (IID: 4323). 
+ 01:19:58 - JuliamTuwim looted a corpse (IID: 4323). 
+ 01:19:58 - JuliamTuwim dropped a loot (IID: 4005). 
+ 01:19:58 - JuliamTuwim looted a corpse (IID: 4005). 
+ 01:19:58 - JuliamTuwim looted a corpse (IID: 4005). 
+ 01:19:59 - JuliamTuwim dropped a loot (IID: 4272). 
+ 01:19:59 - JuliamTuwim looted a corpse (IID: 4272). 
+ 01:19:59 - JuliamTuwim looted a corpse (IID: 4272). 
+ 01:19:59 - JuliamTuwim looted a corpse (IID: 4272). 
+ 01:19:59 - JuliamTuwim dropped a loot (IID: 4098). 
+ 01:19:59 - JuliamTuwim looted a corpse (IID: 4098). 
+ 01:19:59 - JuliamTuwim looted a corpse (IID: 4098). 
+ 01:21:08 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:21:19 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:22:26 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4143) from the ground. 
+ 01:22:27 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4034) from the ground. 
+ 01:22:29 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4119) from the ground. 
+ 01:22:29 - Krzysztof_Krawczyk dropped Iron Ore(IID: 4034) on the ground. 
+ 01:22:29 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4037) from the ground. 
+ 01:22:32 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:22:34 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:34 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:34 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:36 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4098) from the ground. 
+ 01:22:37 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4010) from the ground. 
+ 01:22:40 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:22:41 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:41 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:43 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4226) from the ground. 
+ 01:22:48 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4282) from the ground. 
+ 01:22:53 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:22:54 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:22:54 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:36 - JuliamTuwim dropped Mining Pick(IID: 4295) on the ground. 
+ 01:23:37 - JuliamTuwim picked up Iron Ore(IID: 4226) from the ground. 
+ 01:23:37 - JuliamTuwim picked up Iron Ore(IID: 4288) from the ground. 
+ 01:23:38 - JuliamTuwim picked up Iron Ore(IID: 4098) from the ground. 
+ 01:23:38 - JuliamTuwim picked up Iron Ore(IID: 4106) from the ground. 
+ 01:23:40 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:23:41 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:41 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:41 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4170) from the ground. 
+ 01:23:41 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:42 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:42 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4139) from the ground. 
+ 01:23:42 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4321) from the ground. 
+ 01:23:43 - JuliamTuwim picked up Iron Ore(IID: 4188) from the ground. 
+ 01:23:43 - JuliamTuwim picked up Iron Ore(IID: 3978) from the ground. 
+ 01:23:43 - JuliamTuwim picked up Iron Ore(IID: 4368) from the ground. 
+ 01:23:43 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:23:44 - JuliamTuwim dropped Iron Ore(IID: 4266) on the ground. 
+ 01:23:44 - JuliamTuwim picked up Iron Ore(IID: 4157) from the ground. 
+ 01:23:44 - JuliamTuwim dropped Iron Ore(IID: 4157) on the ground. 
+ 01:23:44 - JuliamTuwim picked up Iron Ore(IID: 4037) from the ground. 
+ 01:23:44 - JuliamTuwim dropped Iron Ore(IID: 4037) on the ground. 
+ 01:23:44 - JuliamTuwim picked up Iron Ore(IID: 3909) from the ground. 
+ 01:23:44 - JuliamTuwim dropped Iron Ore(IID: 3909) on the ground. 
+ 01:23:44 - JuliamTuwim picked up Iron Ore(IID: 3999) from the ground. 
+ 01:23:45 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:23:46 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:47 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:23:47 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:48 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:48 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:48 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:48 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:48 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:49 - Krzysztof_Krawczyk picked up Iron Ore(IID: 3963) from the ground. 
+ 01:23:49 - JuliamTuwim picked up Iron Ore(IID: 3882) from the ground. 
+ 01:23:49 - JuliamTuwim picked up Iron Ore(IID: 4194) from the ground. 
+ 01:23:49 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4140) from the ground. 
+ 01:23:49 - JuliamTuwim picked up Iron Ore(IID: 4300) from the ground. 
+ 01:23:50 - JuliamTuwim picked up Iron Ore(IID: 3980) from the ground. 
+ 01:23:50 - JuliamTuwim dropped Iron Ore(IID: 3980) on the ground. 
+ 01:23:50 - JuliamTuwim picked up Iron Ore(IID: 4010) from the ground. 
+ 01:23:50 - JuliamTuwim dropped Iron Ore(IID: 4010) on the ground. 
+ 01:23:50 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:23:51 - JuliamTuwim dropped Iron Ore(IID: 4137) on the ground. 
+ 01:23:51 - JuliamTuwim picked up Iron Ore(IID: 3961) from the ground. 
+ 01:23:52 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:23:53 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:53 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:55 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4243) from the ground. 
+ 01:23:55 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4143) from the ground. 
+ 01:23:56 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4235) from the ground. 
+ 01:23:58 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:23:58 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:23:58 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:58 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:58 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:59 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:23:59 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:59 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:23:59 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:24:00 - JuliamTuwim picked up Iron Ore(IID: 3909) from the ground. 
+ 01:24:00 - JuliamTuwim picked up Mining Pick(IID: 4295) from the ground. 
+ 01:24:00 - JuliamTuwim picked up Iron Ore(IID: 4010) from the ground. 
+ 01:24:00 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4034) from the ground. 
+ 01:24:01 - JuliamTuwim picked up Iron Ore(IID: 3980) from the ground. 
+ 01:24:01 - Krzysztof_Krawczyk picked up Iron Ore(IID: 3953) from the ground. 
+ 01:24:02 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4114) from the ground. 
+ 01:24:02 - JuliamTuwim dropped Mining Pick(IID: 4114) on the ground. 
+ 01:24:03 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:24:03 - JuliamTuwim dropped Iron Ore(IID: 4137) on the ground. 
+ 01:24:03 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:24:03 - JuliamTuwim dropped Iron Ore(IID: 4266) on the ground. 
+ 01:24:03 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:24:04 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:24:05 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:24:05 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:24:05 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:24:05 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:24:06 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:06 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:06 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:06 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:07 - JuliamTuwim picked up Iron Ore(IID: 4095) from the ground. 
+ 01:24:08 - JuliamTuwim picked up Iron Ore(IID: 4203) from the ground. 
+ 01:24:08 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:24:08 - JuliamTuwim picked up Iron Ore(IID: 3930) from the ground. 
+ 01:24:09 - JuliamTuwim dropped Iron Ore(IID: 3930) on the ground. 
+ 01:24:09 - JuliamTuwim picked up Iron Ore(IID: 4119) from the ground. 
+ 01:24:09 - JuliamTuwim dropped Iron Ore(IID: 4119) on the ground. 
+ 01:24:09 - JuliamTuwim picked up Iron Ore(IID: 4282) from the ground. 
+ 01:24:11 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:24:11 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:24:11 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:11 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:12 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:12 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:14 - Cooking, Repairing or Healing others now gives you payments. 
+ 01:24:15 - JuliamTuwim picked up Iron Ore(IID: 3930) from the ground. 
+ 01:24:15 - JuliamTuwim picked up Iron Ore(IID: 4119) from the ground. 
+ 01:24:15 - JuliamTuwim picked up Iron Ore(IID: 4157) from the ground. 
+ 01:24:15 - JuliamTuwim picked up Iron Ore(IID: 4037) from the ground. 
+ 01:24:18 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:24:19 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:19 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:19 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:19 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:24:20 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:24:26 - JuliamTuwim picked up Mining Pick(IID: 4114) from the ground. 
+ 01:24:36 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:24:38 - JuliamTuwim took Bread from an inventory (IID: 2720). 
+ 01:25:08 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4137) from the ground. 
+ 01:25:09 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4114) from the ground. 
+ 01:25:09 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4157) from the ground. 
+ 01:25:12 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:25:13 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:13 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:13 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:15 - Krzysztof_Krawczyk picked up Iron Ore(IID: 3930) from the ground. 
+ 01:25:16 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4164) from the ground. 
+ 01:25:16 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4183) from the ground. 
+ 01:25:18 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:25:19 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:19 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:20 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:25:28 - JuliamTuwim dropped Mining Pick(IID: 3930) on the ground. 
+ 01:25:29 - JuliamTuwim picked up Iron Ore(IID: 4037) from the ground. 
+ 01:25:29 - JuliamTuwim picked up Iron Ore(IID: 4164) from the ground. 
+ 01:25:29 - JuliamTuwim picked up Iron Ore(IID: 4282) from the ground. 
+ 01:25:29 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:25:29 - JuliamTuwim dropped Iron Ore(IID: 4266) on the ground. 
+ 01:25:29 - JuliamTuwim picked up Iron Ore(IID: 4183) from the ground. 
+ 01:25:30 - JuliamTuwim dropped Iron Ore(IID: 4183) on the ground. 
+ 01:25:30 - JuliamTuwim picked up Iron Ore(IID: 4114) from the ground. 
+ 01:25:30 - JuliamTuwim dropped Iron Ore(IID: 4114) on the ground. 
+ 01:25:30 - JuliamTuwim picked up Iron Ore(IID: 4157) from the ground. 
+ 01:25:32 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:25:33 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:33 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:33 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:34 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:35 - JuliamTuwim picked up Mining Pick(IID: 3930) from the ground. 
+ 01:25:36 - JuliamTuwim picked up Iron Ore(IID: 4114) from the ground. 
+ 01:25:36 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:25:36 - JuliamTuwim picked up Iron Ore(IID: 4183) from the ground. 
+ 01:25:37 - JuliamTuwim dropped Iron Ore(IID: 4183) on the ground. 
+ 01:25:37 - JuliamTuwim picked up Iron Ore(IID: 4119) from the ground. 
+ 01:25:37 - JuliamTuwim dropped Iron Ore(IID: 4119) on the ground. 
+ 01:25:37 - JuliamTuwim picked up Iron Ore(IID: 4095) from the ground. 
+ 01:25:40 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:25:40 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:40 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:40 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:41 - JuliamTuwim picked up Iron Ore(IID: 4183) from the ground. 
+ 01:25:42 - JuliamTuwim picked up Iron Ore(IID: 4119) from the ground. 
+ 01:25:45 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:25:46 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:25:46 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:26:05 - Krzysztof_Krawczyk picked up Iron Ore(IID: 3930) from the ground. 
+ 01:26:05 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4266) from the ground. 
+ 01:26:06 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4095) from the ground. 
+ 01:26:08 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:26:09 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:09 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:09 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:11 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4203) from the ground. 
+ 01:26:12 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4119) from the ground. 
+ 01:26:12 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4157) from the ground. 
+ 01:26:15 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:26:15 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:16 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:16 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:19 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4183) from the ground. 
+ 01:26:21 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:26:22 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:26:30 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:26:35 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:26:44 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:27:00 - Krzysztof_Krawczyk picked up Iron Ore(IID: 3980) from the ground. 
+ 01:27:02 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4137) from the ground. 
+ 01:27:09 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:27:10 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:27:10 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:27:26 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4295) from the ground. 
+ 01:27:28 - Krzysztof_Krawczyk picked up Iron Ore(IID: 4034) from the ground. 
+ 01:27:31 - JuliamTuwim dropped Mining Pick(IID: 4034) on the ground. 
+ 01:27:31 - JuliamTuwim picked up Iron Ore(IID: 4214) from the ground. 
+ 01:27:31 - JuliamTuwim picked up Iron Ore(IID: 3980) from the ground. 
+ 01:27:32 - JuliamTuwim picked up Iron Ore(IID: 4010) from the ground. 
+ 01:27:32 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:27:32 - JuliamTuwim picked up Iron Ore(IID: 4203) from the ground. 
+ 01:27:32 - JuliamTuwim dropped Iron Ore(IID: 4203) on the ground. 
+ 01:27:32 - JuliamTuwim picked up Iron Ore(IID: 4119) from the ground. 
+ 01:27:33 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:27:33 - Krzysztof_Krawczyk put Iron Ore into an inventory (IID: 649). 
+ 01:27:34 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:27:34 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:35 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:35 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:35 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:36 - JuliamTuwim picked up Mining Pick(IID: 4034) from the ground. 
+ 01:27:36 - JuliamTuwim picked up Iron Ore(IID: 3930) from the ground. 
+ 01:27:36 - JuliamTuwim picked up Iron Ore(IID: 4164) from the ground. 
+ 01:27:36 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:27:36 - JuliamTuwim dropped Iron Ore(IID: 4266) on the ground. 
+ 01:27:37 - JuliamTuwim picked up Iron Ore(IID: 4037) from the ground. 
+ 01:27:37 - JuliamTuwim dropped Iron Ore(IID: 4037) on the ground. 
+ 01:27:37 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:27:37 - JuliamTuwim dropped Iron Ore(IID: 4137) on the ground. 
+ 01:27:37 - JuliamTuwim picked up Iron Ore(IID: 3953) from the ground. 
+ 01:27:37 - JuliamTuwim dropped Iron Ore(IID: 3953) on the ground. 
+ 01:27:37 - JuliamTuwim picked up Iron Ore(IID: 4114) from the ground. 
+ 01:27:38 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:27:38 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:27:39 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:40 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:40 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:41 - JuliamTuwim picked up Iron Ore(IID: 4282) from the ground. 
+ 01:27:41 - JuliamTuwim picked up Iron Ore(IID: 4157) from the ground. 
+ 01:27:41 - JuliamTuwim picked up Iron Ore(IID: 4183) from the ground. 
+ 01:27:42 - JuliamTuwim dropped Iron Ore(IID: 4183) on the ground. 
+ 01:27:42 - JuliamTuwim picked up Iron Ore(IID: 4095) from the ground. 
+ 01:27:43 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:27:44 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:44 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:45 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:45 - JuliamTuwim picked up Iron Ore(IID: 4183) from the ground. 
+ 01:27:46 - JuliamTuwim picked up Iron Ore(IID: 3953) from the ground. 
+ 01:27:46 - JuliamTuwim picked up Iron Ore(IID: 4203) from the ground. 
+ 01:27:46 - JuliamTuwim dropped Iron Ore(IID: 4203) on the ground. 
+ 01:27:46 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:27:46 - JuliamTuwim dropped Iron Ore(IID: 4137) on the ground. 
+ 01:27:46 - JuliamTuwim picked up Iron Ore(IID: 4037) from the ground. 
+ 01:27:48 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:27:48 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:49 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:49 - JuliamTuwim put Iron Ore into an inventory (IID: 2720). 
+ 01:27:50 - JuliamTuwim picked up Iron Ore(IID: 4203) from the ground. 
+ 01:27:51 - JuliamTuwim picked up Iron Ore(IID: 4266) from the ground. 
+ 01:27:51 - JuliamTuwim picked up Iron Ore(IID: 4137) from the ground. 
+ 01:27:55 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:29:17 - Fishing now is way more profitable. Catch some fishes and cook them to get paid. 
+ 01:30:56 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:31:02 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:31:06 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:31:19 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:31:21 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:21 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:22 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:23 - Krzysztof_Krawczyk put Mining Pick into an inventory (IID: 649). 
+ 01:31:23 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:37 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:31:40 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:40 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:40 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:41 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:52 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:31:53 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:54 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:54 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:31:54 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:07 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:32:09 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:10 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:10 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:11 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:25 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:32:28 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:28 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:28 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:28 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:42 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:32:46 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:46 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:46 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:32:47 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:01 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:33:04 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:04 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:04 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:05 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:16 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:33:19 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:19 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:20 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:20 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:31 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:33:31 - Krzysztof_Krawczyk looked into a cart (IID: 649). 
+ 01:33:33 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:33 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:33 - Krzysztof_Krawczyk took Iron Ore from an inventory (IID: 649). 
+ 01:33:35 - Krzysztof_Krawczyk took Mining Pick from an inventory (IID: 649). 
+ 01:33:47 - Krzysztof_Krawczyk has mounted a Cart Horse (AID: 93). 
+ 01:33:51 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:33:54 - JuliamTuwim dropped Mining Pick(IID: 4272) on the ground. 
+ 01:33:57 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:33:58 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:08 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:09 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:09 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:09 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:09 - Krzysztof_Krawczyk detached a cart from his horse (IID: 649) (x:15425, y:73638, z:96). 
+ 01:34:09 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:17 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:18 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:18 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:18 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:18 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:19 - Krzysztof_Krawczyk has dismounted a Cart Horse (AID: 93). 
+ 01:34:19 - You can now duel on the Arena Grounds. Go to the general arena of the map, win duels, and get some payment for entertaining the public! 
+ 01:34:23 - Krzysztof_Krawczyk dropped Mining Pick(IID: 4005) on the ground. 
+ 01:34:26 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:27 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:27 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:27 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:27 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:29 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 01:34:35 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:35 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:36 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:36 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:36 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:45 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:46 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:46 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:47 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:47 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:57 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:34:59 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:34:59 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:00 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:00 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:10 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:35:11 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:11 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:11 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:11 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:20 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:35:21 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:21 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:21 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:22 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:30 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:35:31 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:31 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:32 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:32 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:39 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:35:40 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:40 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:40 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:41 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:49 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:35:50 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:51 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:51 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:51 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:35:59 - JuliamTuwim looked into a cart (IID: 2720). 
+ 01:36:00 - JuliamTuwim took Iron Ore from an inventory (IID: 2720). 
+ 01:36:04 - JuliamTuwim picked up Mining Pick(IID: 4272) from the ground. 
+ 01:36:08 - JuliamTuwim has mounted a Cart Horse (AID: 90). 
+ 01:36:16 - JuliamTuwim detached a cart from his horse (IID: 2720) (x:15013, y:72865, z:94). 
+ 01:36:20 - JuliamTuwim has dismounted a Cart Horse (AID: 90). 
+ 01:36:22 - JuliamTuwim dropped Mining Pick(IID: 4272) on the ground. 
+ 01:36:27 - JuliamTuwim has mounted a Saddle Horse (AID: 93). 
+ 01:38:06 - Krzysztof_Krawczyk attacked Horse (Krzysztof_Krawczyk) with fist dealing 11 damage. FIDs: 3, 3. 
+ 01:38:08 - Krzysztof_Krawczyk attacked Horse (Krzysztof_Krawczyk) with fist dealing 16 damage. FIDs: 3, 3. 
+ 01:38:09 - Player JuliamTuwim  (GUID: 3915010) deposited 54030 gold. 55443 gold in the bank. 
+ 01:38:10 - Player JuliamTuwim  (GUID: 3915010) withdrew 5000 gold. 50443 gold in the bank. 
+ 01:38:16 - Player JuliamTuwim  (GUID: 3915010) withdrew 2000 gold. 48443 gold in the bank. 
+ 01:38:18 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 17). 
+ 01:38:35 - Player Krzysztof_Krawczyk  (GUID: 3793319) deposited 41978 gold. 66978 gold in the bank. 
+ 01:38:40 - Player Krzysztof_Krawczyk  (GUID: 3793319) withdrew 5000 gold. 61978 gold in the bank. 
+ 01:38:45 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 01:39:22 - Hunt wild animals with the huntsman class and get paid. If you also cook the meat, you will come out with even better profits. 
+ 01:39:33 - Physician_Lucii_Ireland has joined the game with ID: 3788185 
+ 01:39:44 - Physician_Lucii_Ireland joined "you get gas today :)" (8). 
+ 01:39:45 - Physician_Lucii_Ireland had these items: H:94, B:262, G:351, F:362, HO:0, 1:615, 2:503, 3:380, 4:-1 
+ 01:40:42 - [Physician_Lucii_Ireland] why you are connected at this hour 
+ 01:40:48 - [Physician_Lucii_Ireland] are you* 
+ 01:40:54 - [JuliamTuwim] we roleplaying 
+ 01:40:57 - [Physician_Lucii_Ireland] oh 
+ 01:40:59 - Physician_Lucii_Ireland looked into a cart (IID: 3559). 
+ 01:41:08 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:41:09 - Physician_Lucii_Ireland took Cooked Meat from an inventory (IID: 3023). 
+ 01:41:12 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:41:13 - Physician_Lucii_Ireland took Wine Jar from an inventory (IID: 3023). 
+ 01:41:17 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:41:20 - Physician_Lucii_Ireland took Wine Jar from an inventory (IID: 3023). 
+ 01:41:40 - Krzysztof_Krawczyk has dismounted a Saddle Horse (AID: 17). 
+ 01:41:43 - Krzysztof_Krawczyk has mounted a Saddle Horse (AID: 17). 
+ 01:41:46 - The player Krzysztof_Krawczyk has disconnect with these items inside item banking:A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 01:41:46 - Krzysztof_Krawczyk has left the game with ID: 3793319 
+ 01:41:46 - Krzysztof_Krawczyk had these items: H:-1, B:142, G:316, F:-1, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 01:41:46 -  <img=ico_headshot> Krzysztof_Krawczyk 
+ 01:41:46 - Krzysztof_Krawczyk dropped a loot (IID: 4323). 
+ 01:42:32 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:42:32 - Physician_Lucii_Ireland took Cooked Meat from an inventory (IID: 3023). 
+ 01:42:36 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:42:36 - Physician_Lucii_Ireland took Cooked Meat from an inventory (IID: 3023). 
+ 01:42:45 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:42:46 - Physician_Lucii_Ireland put Cooked Meat into an inventory (IID: 3023). 
+ 01:42:47 - Physician_Lucii_Ireland took Wine Jar from an inventory (IID: 3023). 
+ 01:44:03 - Physician_Lucii_Ireland looked into a cart (IID: 3023). 
+ 01:44:04 - Physician_Lucii_Ireland put Wine Jar into an inventory (IID: 3023). 
+ 01:44:04 - Physician_Lucii_Ireland took Cooked Meat from an inventory (IID: 3023). 
+ 01:44:12 - Physician_Lucii_Ireland looked into a cart (IID: 3096). 
+ 01:44:13 - The player JuliamTuwim has disconnect with these items inside item banking:A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 01:44:13 - JuliamTuwim has left the game with ID: 3915010 
+ 01:44:13 - JuliamTuwim had these items: H:9, B:-1, G:-1, F:-1, HO:522, 1:-1, 2:-1, 3:-1, 4:-1 
+ 01:44:13 -  <img=ico_headshot> JuliamTuwim 
+ 01:44:13 - JuliamTuwim dropped a loot (IID: 4323). 
+ 01:44:15 - Physician_Lucii_Ireland looked into a cart (IID: 3559). 
+ 01:44:19 - Physician_Lucii_Ireland looked into a cart (IID: 1701). 
+ 01:44:24 - [Physician_Lucii_Ireland] if you read this will 
+ 01:44:24 - Smith weaponry and armors in the local shops and repair structures. Smithing is a very high profitable path for you. 
+ 01:44:27 - [Physician_Lucii_Ireland] you are gay 
+ 01:44:29 - [Physician_Lucii_Ireland] but we love you 
+ 01:44:32 - The player Physician_Lucii_Ireland has disconnect with these items inside item banking:A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A 
+ 01:44:32 - Physician_Lucii_Ireland has left the game with ID: 3788185 
+ 01:44:32 - Physician_Lucii_Ireland had these items: H:94, B:262, G:351, F:362, HO:0, 1:-1, 2:-1, 3:-1, 4:-1 
+ 01:44:32 -  <img=ico_headshot> Physician_Lucii_Ireland 
+ 01:44:32 - Physician_Lucii_Ireland dropped a loot (IID: 4005). 
+ 

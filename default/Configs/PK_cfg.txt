@@ -16,8 +16,7 @@ set_ban_voteable 0
 #MAP / MISSION SETTINGS
 set_mission conquest # other options: quick_battle, no_money
 
-set_map scene_11 # this is the map that is started first
-add_map scene_11 # this adds scene_2 to the rotation
+set_map scene_3 # this is the map that is started first
 
 #DAY / NIGHT CYCLE
 limit_sapper 0 # turn on day / night cycle. any other value is off.
