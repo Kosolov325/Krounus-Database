@@ -1,5 +1,5 @@
 #SERVER SETTINGS
-set_upload_limit 99000000 # set this to the correct value for your server bandwidth (explained in the previously linked tutorial)
+set_upload_limit 99999999 # set this to the correct value for your server bandwidth (explained in the previously linked tutorial)
 
 set_max_players 200 200
 set_add_to_game_servers_list 1
