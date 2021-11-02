@@ -1,8 +1,15 @@
+set_server_name Testing_Calradia
+set_port 7240
+set_steam_port 7241
+set_add_to_game_servers_list 1
+set_server_log_folder logs
+set_server_ban_list_file bans.txt
 #SERVER SETTINGS
-set_upload_limit 99000000 # set this to the correct value for your server bandwidth (explained in the previously linked tutorial)
+set_upload_limit 99999999 # set this to the correct value for your server bandwidth (explained in the previously linked tutorial)
 
 set_max_players 200 200
 set_add_to_game_servers_list 1
+set_port 7240
 
 set_welcome_message Welcome to Kronos! Join our Discord to keep in touch: discord.gg/a6uc8utndF
 
@@ -48,10 +55,12 @@ set_ghost_mode 2 # enable spectator 0=free camera, 1=camera locked on players, 2
 
 #PERFORMANCE SETTINGS
 set_round_max_seconds 600 # time in seconds before items are removed; set the same value in module.ini for mission_object_prune_time
-set_num_bots_voteable 99 # set this to the maximum number of herd animals
+set_num_bots_voteable 10 # set this to the maximum number of herd animals
 
 #MISC
 set_team_point_limit 0 # if 1 or above, when a faction holds all castles for this many minutes, the mission ends
 set_valid_vote_ratio 60 # percent of players voting yes for a poll to succeed
+
+start
 
 start

@@ -9,13 +9,7 @@ import {
   loadPlayer,
   ping,
   savePlayer,
-  stripGear,
-  ibankSave,
-  ibankLoad,
-  pdoorSave,
-  pdoorLoad,
-  factionSave,
-  factionLoad
+  stripGear
 } from './controllers';
 
 const router = new Router();
@@ -30,11 +24,5 @@ router.get('/saveplayer', savePlayer); // for when a player-selector leaves the 
 
 router.get('/bankdeposit', bankDeposit); // for when a player-selector uses a bank
 router.get('/bankwithdraw', bankWithdraw); // for when a player-selector uses a bank
-router.get('/ibankload', ibankLoad); //load ibank
-router.get('/ibanksave', ibankSave); //save ibank
-router.get('/pdoorSave', pdoorSave); //save pdoor
-router.get('/pdoorLoad', pdoorLoad); //load pdoor
-router.get('/factionSave', factionSave); //save faction
-router.get('/factionLoad', factionLoad); //load faction
 
 export default router;

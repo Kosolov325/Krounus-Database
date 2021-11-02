@@ -1,0 +1,12 @@
+[15:37:30] WSE v4.8.0 by cmpxchg8b, K700, AgentSmith (Build date: Mar 28 2021 09:47:27)
+[15:37:30] WSE path: Z:\home\PK.js\gameservers\default\
+[15:37:30] WSE netcode version: 9
+[15:37:30] Warband version: dedicated server
+[15:37:57] WARNING: Unable to map WSE script code: wse_chat_message_received
+[15:37:57] WARNING: Unable to map WSE script code: wse_console_command_received
+[15:37:57] WARNING: Unable to map WSE script code: wse_game_saved
+[15:37:57] WARNING: Unable to map WSE script code: wse_multiplayer_message_received
+[15:37:57] WARNING: Unable to map WSE script code: wse_get_agent_scale
+[15:37:57] WARNING: Unable to map WSE script code: wse_window_opened
+[15:37:57] WARNING: Unable to map WSE script code: wse_savegame_loaded
+[15:37:57] WARNING: Unable to map WSE script code: wse_get_server_info

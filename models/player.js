@@ -16,6 +16,7 @@ const PlayerSchema = new mongoose.Schema({
   online: { type: Number, require: true, default: 0 },
   lastSeen: { type: Date, default: Date.now },
   lastPlayerName: { type: String },
+
   factionID: Number,
   classID: Number,
   health: Number,
@@ -35,23 +36,14 @@ const PlayerSchema = new mongoose.Schema({
   forthAmmo: Number,
   horse: Number,
   horseHealth: Number,
-  ibankID: Number,
-  ibank: { type: String },
-  keys: { type: String },
+
   xPosition: Number,
   yPosition: Number,
   zPosition: Number,
 
   pouchGold: { type: Number, require: true },
   bankGold: { type: Number, require: true },
-  bankLimit: { type: Number, require: true },
- 
-  quest: Number,
-  task1: Number,
-  task2: Number,
-  task3: Number,
-  settlement: Number,
-  switchs: Number
+  bankLimit: { type: Number, require: true }
 });
 
 export default mongoose.model('Player', PlayerSchema);
