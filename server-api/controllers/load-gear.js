@@ -45,7 +45,16 @@ export default async function(ctx) {
     player.xPosition || -1,
     player.yPosition || -1,
     player.zPosition || -1,
+    player.ibankID || -1,
+    player.quest,
+    player.task1,
+    player.task2,
+    player.task3,
+    player.settlement,
+    player.switchs,
     player.linkedSteamUser ? '*****' : player.pin,
-    server.welcomeMessage
+    server.welcomeMessage,
+    player.ibank,
+    player.keys
   ]);
 }

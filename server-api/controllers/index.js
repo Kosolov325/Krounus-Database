@@ -5,6 +5,12 @@ import loadPlayer from './load-player';
 import ping from './ping';
 import savePlayer from './save-player';
 import stripGear from './strip-gear';
+import ibankSave from './ibank-save';
+import ibankLoad from './ibank-load';
+import pdoorSave from './pdoor-save';
+import pdoorLoad from './pdoor-load';
+import factionSave from './faction-save';
+import factionLoad from './faction-load';
 
 export {
   bankDeposit,
@@ -13,5 +19,11 @@ export {
   loadPlayer,
   ping,
   savePlayer,
-  stripGear
+  stripGear,
+  ibankSave,
+  ibankLoad,
+  pdoorSave,
+  pdoorLoad,
+  factionSave,
+  factionLoad
 };

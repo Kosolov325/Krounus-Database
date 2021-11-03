@@ -32,6 +32,15 @@ export default async function(ctx) {
     update.yPosition = ctx.query.yPosition;
     update.zPosition = ctx.query.zPosition;
     update.pouchGold = ctx.query.pouchGold;
+    update.ibankID = ctx.query.ibankID;
+    update.quest = ctx.query.quest;
+    update.task1 = ctx.query.task1;
+    update.task2 = ctx.query.task2;
+    update.task3 = ctx.query.task3;
+    update.settlement = ctx.query.settlement;
+    update.switchs = ctx.query.switchs;
+    update.ibank = ctx.query.ibank;
+    update.keys = ctx.query.keys;
   }
 
   await Player.updateOne(
