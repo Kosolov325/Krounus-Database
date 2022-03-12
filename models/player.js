@@ -45,13 +45,6 @@ const PlayerSchema = new mongoose.Schema({
   bankGold: { type: Number, require: true },
   bankLimit: { type: Number, require: true },
 
-	
-  quest: Number,
-  task1: Number,
-  task2: Number,
-  task3: Number,
-  settlement: Number,
-  switchs: Number
 });
 
 export default mongoose.model('Player', PlayerSchema);

@@ -1,1 +1,0 @@
-mb_warband_dedicated.exe -r Sample_Team_Deathmatch.txt -m Native

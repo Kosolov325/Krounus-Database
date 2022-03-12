@@ -1,1 +1,0 @@
-mb_warband_dedicated_steam.exe -r Sample_Battle.txt -m Native
